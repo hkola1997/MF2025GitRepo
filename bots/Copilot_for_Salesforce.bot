@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <botVersions>
+        <fullName>v1</fullName>
+        <articleAnswersGPTEnabled>false</articleAnswersGPTEnabled>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Hi! I&apos;m Agentforce, an AI assistant. I can do things like search your Salesforce data or the internet, edit your Salesforce records, and draft or revise emails and fields. Ask me &quot;What else can you do?&quot; to see how I can help simplify your work day.</message>
+                    <messageIdentifier>6dc392d0-914e-494f-8542-36bcf21d1454</messageIdentifier>
+                </botMessages>
+                <stepIdentifier>3ccff44c-c997-48fe-9720-4d6a11259e48</stepIdentifier>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <stepIdentifier>30f6a6b6-372a-41d0-857a-232e42549361</stepIdentifier>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Welcome</developerName>
+            <isPlaceholderDialog>false</isPlaceholderDialog>
+            <label>Welcome</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Something went wrong. Try again.</message>
+                    <messageIdentifier>2f0a9a36-d77f-406e-b696-dee7948e4072</messageIdentifier>
+                </botMessages>
+                <stepIdentifier>943583fa-2360-4b76-ba5a-9d3ef7523ec1</stepIdentifier>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <stepIdentifier>fae838c2-e9d6-4646-ad4f-ec9d7f8dd056</stepIdentifier>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Rich_Content_Error_Handling</developerName>
+            <isPlaceholderDialog>false</isPlaceholderDialog>
+            <label>Error Handler</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <citationsEnabled>false</citationsEnabled>
+        <conversationDefinitionPlanners>
+            <genAiPlannerName>EmployeeCopilotPlanner</genAiPlannerName>
+        </conversationDefinitionPlanners>
+        <conversationSystemDialogs>
+            <dialog>Rich_Content_Error_Handling</dialog>
+            <type>ErrorHandling</type>
+        </conversationSystemDialogs>
+        <conversationVariables>
+            <dataType>Text</dataType>
+            <description>The API name of the Salesforce object (such as Account or Opportunity) associated with the record the user wants to interact with. Do not use this if the user is already talking about another object in the conversation.</description>
+            <developerName>currentObjectApiName</developerName>
+            <includeInPrompt>true</includeInPrompt>
+            <label>Current Object Api Name</label>
+            <visibility>External</visibility>
+        </conversationVariables>
+        <conversationVariables>
+            <dataType>Text</dataType>
+            <description>Salesforce Application Name.</description>
+            <developerName>currentAppName</developerName>
+            <includeInPrompt>true</includeInPrompt>
+            <label>Current App Name</label>
+            <visibility>External</visibility>
+        </conversationVariables>
+        <conversationVariables>
+            <dataType>Text</dataType>
+            <description>The ID of the record on the user&apos;s screen. It may not relate to the user&apos;s input. Only use this if the user input mentions &apos;this&apos;, &apos;current&apos;, &apos;the record&apos;, etc. If in doubt, don&apos;t use it.</description>
+            <developerName>currentRecordId</developerName>
+            <includeInPrompt>true</includeInPrompt>
+            <label>Current Record Id</label>
+            <visibility>External</visibility>
+        </conversationVariables>
+        <conversationVariables>
+            <dataType>Text</dataType>
+            <description>Type of Salesforce Page.</description>
+            <developerName>currentPageType</developerName>
+            <includeInPrompt>true</includeInPrompt>
+            <label>Current Page Type</label>
+            <visibility>External</visibility>
+        </conversationVariables>
+        <conversationVariables>
+            <dataType>Text</dataType>
+            <description>This variable may also be referred to as VerifiedCustomerId</description>
+            <developerName>VerifiedCustomerId</developerName>
+            <includeInPrompt>false</includeInPrompt>
+            <label>Verified Customer ID</label>
+            <visibility>Internal</visibility>
+        </conversationVariables>
+        <entryDialog>Welcome</entryDialog>
+        <intentDisambiguationEnabled>false</intentDisambiguationEnabled>
+        <intentV3Enabled>false</intentV3Enabled>
+        <knowledgeActionEnabled>false</knowledgeActionEnabled>
+        <knowledgeFallbackEnabled>false</knowledgeFallbackEnabled>
+        <smallTalkEnabled>false</smallTalkEnabled>
+    </botVersions>
+</Bot>
