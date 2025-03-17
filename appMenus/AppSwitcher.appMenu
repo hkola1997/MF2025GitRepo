@@ -172,4 +172,8 @@
         <name>copado__Copado_Plan_Lightning</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>copadoconnect__Copado_Connect</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>

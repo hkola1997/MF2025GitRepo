@@ -123,5 +123,9 @@
             <translation>時間を節約</translation>
         </picklistValues>
     </fields>
+    <fields>
+        <label><!-- Last Synced Date --></label>
+        <name>copadoconnect__Last_Synced_Date__c</name>
+    </fields>
     <nameFieldLabel>機能名</nameFieldLabel>
 </CustomObjectTranslation>
