@@ -89,4 +89,17 @@
             </criteriaItems>
         </ruleEntry>
     </assignmentRule>
+    <assignmentRule>
+        <fullName>chandana test case assigment rule</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>hkola362@agentforce.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.Origin</field>
+                <operation>equals</operation>
+                <value>Email</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
 </AssignmentRules>
