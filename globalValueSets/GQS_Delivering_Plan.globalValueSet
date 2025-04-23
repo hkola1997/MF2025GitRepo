@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Plant_A</fullName>
+        <default>false</default>
+        <label>Plant_A</label>
+    </customValue>
+    <customValue>
+        <fullName>Plant_B</fullName>
+        <default>false</default>
+        <label>Plant_B</label>
+    </customValue>
+    <customValue>
+        <fullName>Plant_C</fullName>
+        <default>false</default>
+        <label>Plant_C</label>
+    </customValue>
+    <customValue>
+        <fullName>Plant_D</fullName>
+        <default>false</default>
+        <label>Plant_D</label>
+    </customValue>
+    <customValue>
+        <fullName>Plant_E</fullName>
+        <default>false</default>
+        <label>Plant_E</label>
+    </customValue>
+    <masterLabel>GQS_Delivering_Plan</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
