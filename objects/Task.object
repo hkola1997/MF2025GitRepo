@@ -407,6 +407,11 @@
         </filters>
         <label>ENCODED:{!FilterNames.Task_UnscheduledTasks}</label>
     </listViews>
-    <searchLayouts/>
+    <recordTypes>
+        <fullName>Customer_Logistics_Task</fullName>
+        <active>true</active>
+        <label>Customer_Logistics_Task</label>
+    </recordTypes>
+    <searchLayouts />
     <sharingModel>Private</sharingModel>
 </CustomObject>
