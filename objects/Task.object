@@ -407,10 +407,50 @@
         </filters>
         <label>ENCODED:{!FilterNames.Task_UnscheduledTasks}</label>
     </listViews>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <recordTypes>
         <fullName>Customer_Logistics_Task</fullName>
         <active>true</active>
         <label>Customer_Logistics_Task</label>
+        <picklistValues>
+            <picklist>Supplying_Plant__c</picklist>
+            <values>
+                <fullName>Plant_A</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Plant_B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Plant_C</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Plant_D</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Plant_E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>test1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>test2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>test3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>test4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <searchLayouts />
     <sharingModel>Private</sharingModel>

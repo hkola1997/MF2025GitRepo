@@ -2,7 +2,16 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Activity.Supplying_Plant__c</members>
+        <members>Task.Supplying_Plant__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Task</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>GQS_Delivering_Plan</members>
+        <name>GlobalValueSet</name>
     </types>
     <types>
         <members>Task.Customer_Logistics_Task</members>
