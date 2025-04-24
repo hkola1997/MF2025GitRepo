@@ -3,11 +3,8 @@
     <types>
         <members>Activity.Supplying_Plant__c</members>
         <members>Case.chandupicklistwithout_taskobject__c</members>
+        <members>Task.Supplying_Plant__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Task</members>
-        <name>CustomObject</name>
     </types>
     <types>
         <members>GQS_Delivering_Plan</members>
