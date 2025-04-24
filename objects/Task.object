@@ -450,6 +450,10 @@
                 <fullName>test4</fullName>
                 <default>false</default>
             </values>
+            <values>
+                <fullName>testcaseobject</fullName>
+                <default>false</default>
+            </values>
         </picklistValues>
     </recordTypes>
     <searchLayouts />
