@@ -45,6 +45,11 @@
         <default>false</default>
         <label>test4</label>
     </customValue>
+    <customValue>
+        <fullName>testcaseobject</fullName>
+        <default>false</default>
+        <label>testcaseobject</label>
+    </customValue>
     <masterLabel>GQS_Delivering_Plan</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
