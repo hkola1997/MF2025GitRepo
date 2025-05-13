@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Activity.Supplying_Plant__c</members>
-        <members>Task.Supplying_Plant__c</members>
-        <name>CustomField</name>
+        <members>Account.chandu_approval_process</members>
+        <name>ApprovalProcess</name>
     </types>
     <types>
-        <members>Task</members>
-        <name>CustomObject</name>
+        <members>Account-Account %28Marketing%29 Layout</members>
+        <members>Account-Account %28Sales%29 Layout</members>
+        <members>Account-Account %28Support%29 Layout</members>
+        <members>Account-Account Layout</members>
+        <name>Layout</name>
     </types>
     <types>
-        <members>GQS_Delivering_Plan</members>
-        <name>GlobalValueSet</name>
-    </types>
-    <types>
-        <members>Task.Customer_Logistics_Task</members>
-        <name>RecordType</name>
+        <members>Account.BackPromotionChecker</members>
+        <members>Account.fup</members>
+        <members>Account.pavan</members>
+        <members>Account.record_fieldupdate</members>
+        <name>WorkflowFieldUpdate</name>
     </types>
     <version>63.0</version>
 </Package>
