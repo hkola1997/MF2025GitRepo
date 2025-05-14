@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.chandu_approval_process</members>
-        <name>ApprovalProcess</name>
-    </types>
-    <types>
-        <members>Account-Account %28Marketing%29 Layout</members>
-        <members>Account-Account %28Sales%29 Layout</members>
-        <members>Account-Account %28Support%29 Layout</members>
-        <members>Account-Account Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Account</members>
-        <members>Case</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Account.BackPromotionChecker</members>
-        <members>Account.chandu_newfieldupdate_on_the_workflow_ac</members>
-        <members>Account.chandu_workflowrule_fieldupdate</members>
-        <members>Account.fup</members>
-        <members>Account.pavan</members>
-        <members>Account.record_fieldupdate</members>
-        <name>WorkflowFieldUpdate</name>
-    </types>
-    <types>
-        <members>Account.chandu workflow rule</members>
-        <members>Account.record_fieldupdate_inworkflowrule hari</members>
-        <name>WorkflowRule</name>
+        <members>chandana_tabvisibility_PS</members>
+        <name>PermissionSet</name>
     </types>
     <version>63.0</version>
 </Package>
