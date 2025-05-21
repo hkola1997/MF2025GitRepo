@@ -153,6 +153,40 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>controlled_field__c</fullName>
+        <label>controlled field</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>MNO</fullName>
+                    <default>false</default>
+                    <label>MNO</label>
+                </value>
+                <value>
+                    <fullName>PQR</fullName>
+                    <default>false</default>
+                    <label>PQR</label>
+                </value>
+                <value>
+                    <fullName>STU</fullName>
+                    <default>false</default>
+                    <label>STU</label>
+                </value>
+                <value>
+                    <fullName>VWX</fullName>
+                    <default>false</default>
+                    <label>VWX</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <label>Luizcustom field</label>
     <nameField>
         <label>Luizcustom field Name</label>
