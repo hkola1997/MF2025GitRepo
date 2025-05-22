@@ -517,6 +517,16 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>Viswarecordpageclonefield1__c</fullName>
+        <externalId>false</externalId>
+        <label>Viswarecordpageclonefield1</label>
+        <length>55</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Website</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
