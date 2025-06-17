@@ -271,6 +271,16 @@
         <trackHistory>true</trackHistory>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>nithish__c</fullName>
+        <externalId>false</externalId>
+        <label>nithish</label>
+        <length>44</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllActivatedContracts</fullName>
         <filterScope>Everything</filterScope>
