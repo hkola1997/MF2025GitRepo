@@ -89,4 +89,17 @@
             </criteriaItems>
         </ruleEntry>
     </assignmentRule>
+    <assignmentRule>
+        <fullName>chandujune2025assignmentrule</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>hkola362@agentforce.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.ContactMobile</field>
+                <operation>notEqual</operation>
+                <value>null</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
 </AssignmentRules>
