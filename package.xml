@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.chandujune2025assignmentrule</members>
-        <name>AssignmentRule</name>
+        <members>Reset_Password_Admin</members>
+        <name>PermissionSet</name>
     </types>
-    <version>63.0</version>
+    <version>64.0</version>
 </Package>
