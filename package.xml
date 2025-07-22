@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Reset_Password_Admin</members>
+        <members>Reset_Password_User_leo4</members>
         <name>PermissionSet</name>
     </types>
     <version>64.0</version>
