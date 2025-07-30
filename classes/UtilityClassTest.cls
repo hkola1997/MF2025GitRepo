@@ -3,7 +3,7 @@ public class UtilityClassTest {
 
     @isTest
     static void testGetFullName() {
-        String fullName = UtilityClass.getFullName('John', 'Doe');
+        String fullName = UtilityClass.getFullNameformergeconflict('John', 'Doe');
         System.assertEquals('John Doe', fullName, 'Full name should be correct');
     }
 
