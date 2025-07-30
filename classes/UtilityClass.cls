@@ -1,7 +1,7 @@
 public class UtilityClass {
 
     // Method 1: Get full name
-    public static String getFullName(String firstName, String lastName) {
+    public static String getFullNameformergeconflict(String firstName, String lastName) {
         return firstName + ' ' + lastName;
     }
 
