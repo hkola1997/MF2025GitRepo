@@ -146,6 +146,11 @@
                 <operation>equals</operation>
                 <value>True</value>
             </filterItems>
+            <filterItems>
+                <field>Cost_Center__c.checkfilter1__c</field>
+                <operation>equals</operation>
+                <value>abc</value>
+            </filterItems>
             <isOptional>false</isOptional>
         </lookupFilter>
         <referenceTo>Cost_Center__c</referenceTo>
