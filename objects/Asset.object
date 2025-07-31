@@ -135,6 +135,27 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>CostCenterExpense__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>“For Cost Center Expense tracking.”</description>
+        <label>Cost Center (Expense)</label>
+        <lookupFilter>
+            <active>true</active>
+            <filterItems>
+                <field>$User.IsActive</field>
+                <operation>equals</operation>
+                <value>True</value>
+            </filterItems>
+            <isOptional>false</isOptional>
+        </lookupFilter>
+        <referenceTo>Cost_Center__c</referenceTo>
+        <relationshipLabel>Assets</relationshipLabel>
+        <relationshipName>Assets</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>CurrentAmount</fullName>
         <trackHistory>false</trackHistory>
     </fields>
