@@ -545,6 +545,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>email_notifications_chandu_test__c</fullName>
+        <externalId>false</externalId>
+        <label>email_notifications_chandu_test</label>
+        <length>88</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>nithish__c</fullName>
         <externalId>false</externalId>
         <label>nithish</label>
