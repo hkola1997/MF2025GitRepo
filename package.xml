@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.ramya_rollback_customsite__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>My_First_Site</members>
-        <name>CustomSite</name>
+        <members>MySitePage</members>
+        <name>ApexPage</name>
     </types>
     <version>64.0</version>
 </Package>
