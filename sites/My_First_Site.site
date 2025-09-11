@@ -23,8 +23,8 @@
     <masterLabel>My First Site</masterLabel>
     <redirectToCustomDomain>true</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
-    <siteAdmin>hkola362@agentforce.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>hkola362@agentforce.com</siteGuestRecordDefaultOwner>
+    <siteAdmin>hkola221@agentforce.com</siteAdmin>
+    <siteGuestRecordDefaultOwner>hkola221@agentforce.com</siteGuestRecordDefaultOwner>
     <siteTemplate>SiteTemplate</siteTemplate>
     <siteType>Visualforce</siteType>
     <urlPathPrefix>chandufirstsite</urlPathPrefix>
