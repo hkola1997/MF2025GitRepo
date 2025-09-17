@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>MySitePage</members>
-        <name>ApexPage</name>
+        <members>/New_chandu_report_type_Report_H2Z</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>chandufolder</members>
+        <name>Report</name>
     </types>
     <version>64.0</version>
 </Package>
