@@ -128,16 +128,22 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
-        <actionName>View</actionName>
-        <formFactor>Large</formFactor>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
-        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>copado__User_Story_Layout</content>
         <formFactor>Small</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>copado__User_Story_Layout</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
@@ -1675,7 +1681,7 @@
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
-        <description>On CBM2 page</description>
+        <description>Fields displayed in the User Story tables of the Pipeline Manager</description>
         <displayedFields>
             <field>Name</field>
             <isFieldManaged>false</isFieldManaged>
@@ -1721,7 +1727,7 @@
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </displayedFields>
-        <label>CBM Fields</label>
+        <label>Pipeline Manager User Story Fields</label>
     </fieldSets>
     <fieldSets>
         <fullName>copado__Commit_Files_Information</fullName>
@@ -5071,6 +5077,11 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
+            <field>copado__Developer__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
             <field>copado__Documentation_Complete__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -6595,6 +6606,19 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>copadoQuality__Functional_Review__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <deprecated>false</deprecated>
+        <label>Functional Review</label>
+        <referenceTo>copadoQuality__Functional_Review__c</referenceTo>
+        <relationshipLabel>User Stories</relationshipLabel>
+        <relationshipName>User_Stories</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>copado__Acceptance_Criteria_Status__c</fullName>
         <deprecated>false</deprecated>
         <label>Acceptance Criteria Status</label>
@@ -7874,6 +7898,11 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
                     <default>false</default>
                     <label>Cancelled</label>
                 </value>
+                <value>
+                    <fullName>State</fullName>
+                    <default>false</default>
+                    <label>State</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -8126,36 +8155,38 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <type>TextArea</type>
     </fields>
     <fields>
-        <fullName>copadoconnect__Connect_log__c</fullName>
+        <fullName>copadoccmint__Enable_Logs__c</fullName>
+        <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
-        <label>Connect log</label>
-        <length>32768</length>
+        <label>Enable Logs</label>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
-        <type>LongTextArea</type>
-        <visibleLines>3</visibleLines>
+        <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>copadoconnect__External_ID__c</fullName>
-        <caseSensitive>false</caseSensitive>
+        <fullName>copadoccmint__External_Id__c</fullName>
         <deprecated>false</deprecated>
         <externalId>true</externalId>
-        <label>External ID</label>
+        <label>External Id</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>copadoccmint__JIRA_key__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>JIRA key</label>
         <length>255</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>true</unique>
-    </fields>
-    <fields>
-        <fullName>copadoconnect__Last_Synced_Date__c</fullName>
-        <deprecated>false</deprecated>
-        <label>Last Synced Date</label>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>DateTime</type>
     </fields>
     <label>User Story</label>
     <listViews>
@@ -8170,6 +8201,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <columns>copado__Epic__c</columns>
         <columns>copado__Theme__c</columns>
         <columns>copado__Project__c</columns>
+        <columns>LAST_UPDATE</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
@@ -8638,6 +8670,10 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
                 <fullName>Rejected</fullName>
                 <default>false</default>
             </values>
+            <values>
+                <fullName>State</fullName>
+                <default>false</default>
+            </values>
         </picklistValues>
     </recordTypes>
     <recordTypes>
@@ -9079,6 +9115,10 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
             </values>
             <values>
                 <fullName>Rejected</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>State</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -9524,6 +9564,10 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
                 <fullName>Rejected</fullName>
                 <default>false</default>
             </values>
+            <values>
+                <fullName>State</fullName>
+                <default>false</default>
+            </values>
         </picklistValues>
     </recordTypes>
     <recordTypes>
@@ -9965,6 +10009,10 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
             </values>
             <values>
                 <fullName>Rejected</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>State</fullName>
                 <default>false</default>
             </values>
         </picklistValues>

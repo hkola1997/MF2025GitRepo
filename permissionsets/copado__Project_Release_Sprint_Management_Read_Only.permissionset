@@ -304,8 +304,4 @@
         <tab>copado__Sprint__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>
