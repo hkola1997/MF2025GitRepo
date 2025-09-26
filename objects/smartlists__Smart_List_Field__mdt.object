@@ -208,7 +208,7 @@ File Preview can only be used with Files lists.</inlineHelpText>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
         <fieldManageability>DeveloperControlled</fieldManageability>
-        <inlineHelpText>hari chandana edited</inlineHelpText>
+        <inlineHelpText>API  name of a text formula field returning the dynamic styling attributes of the field</inlineHelpText>
         <label>Dynamic Style Field</label>
         <length>255</length>
         <required>false</required>
