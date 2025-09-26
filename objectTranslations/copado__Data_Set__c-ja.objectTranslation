@@ -37,7 +37,7 @@
         <name>copado__Platform__c</name>
         <picklistValues>
             <masterLabel>Other</masterLabel>
-            <translation><!-- Other --></translation>
+            <translation>その他</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>SFDX</masterLabel>
@@ -45,7 +45,7 @@
         </picklistValues>
         <picklistValues>
             <masterLabel>Salesforce</masterLabel>
-            <translation><!-- Salesforce --></translation>
+            <translation>セールスフォース</translation>
         </picklistValues>
     </fields>
     <fields>

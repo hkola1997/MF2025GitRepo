@@ -10,6 +10,11 @@
         <namespace>cdpactvstrgptnr</namespace>
     </packageVersions>
     <packageVersions>
+        <majorNumber>25</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace>copado</namespace>
+    </packageVersions>
+    <packageVersions>
         <majorNumber>1</majorNumber>
         <minorNumber>7</minorNumber>
         <namespace>sf_com_apps</namespace>
