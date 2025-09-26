@@ -1,0 +1,32 @@
+/**
+ * Mock controller for retrieving External User Stories from the Project's button.
+ *
+ * @author Ümit Can Uçkan
+ * @version 1.0
+ * @since CCM Integrations 1.0
+ */
+public with sharing class SyncUserStoriesController {
+    public String errorMessage { get; set; }
+    public void ScheduleFetchOperationAndReturn2Project() {
+        Boolean isSprint = Boolean.valueOf(ApexPages.currentPage().getParameters().get('isSprint'));
+        Boolean isEpic = Boolean.valueOf(ApexPages.currentPage().getParameters().get('isEpic'));
+        ScheduleFetchOperation(isSprint, isEpic);
+    }
+
+    private void ScheduleFetchOperation(Boolean isSprint, Boolean isEpic) {
+        try {
+            Id pId = ApexPages.currentPage().getParameters().get('pid');
+            ScheduleUserStoryFetch susf;
+            if(isEpic){
+                susf = new ScheduleUserStoryFetch(pId);
+            } else {
+                susf = new ScheduleUserStoryFetch(pId, isSprint);
+            }
+
+            String str = Datetime.now().addSeconds(5).format('s m H d M ? yyyy');
+            String jobID = System.schedule('ScheduleUserStoryFetch - ' + DateTime.now() + '.' + Math.mod(DateTime.now().getTime(), 1000), str, Susf);
+        } catch (Exception e) {
+            errorMessage = e.getMessage();
+        }
+    }
+}
