@@ -306,6 +306,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>copado__Quality_Gate_Rule__c.copado__Is_Updated_Data_Model__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>copado__Quality_Gate_Rule__c.copado__Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -615,10 +620,6 @@
     </tabSettings>
     <tabSettings>
         <tab>copado__Test__c</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
         <visibility>Visible</visibility>
     </tabSettings>
 </PermissionSet>
