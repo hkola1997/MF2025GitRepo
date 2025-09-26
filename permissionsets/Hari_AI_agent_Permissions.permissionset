@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Allows custom permissions for Agentforce Agent : Hari_AI_agent&apos;s agent user : hari_ai_agent@00dgl000000fyby.ext.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Hari_AI_agent Permissions</label>
+    <license>Einstein Agent</license>
+</PermissionSet>

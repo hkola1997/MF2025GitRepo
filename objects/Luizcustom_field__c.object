@@ -161,6 +161,7 @@
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
         <valueSet>
+            <controllingField>controllingchandufield__c</controllingField>
             <restricted>true</restricted>
             <valueSetDefinition>
                 <sorted>false</sorted>
@@ -185,6 +186,57 @@
                     <label>VWX</label>
                 </value>
             </valueSetDefinition>
+            <valueSettings>
+                <controllingFieldValue>ABC</controllingFieldValue>
+                <controllingFieldValue>DEF</controllingFieldValue>
+                <valueName>PQR</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>DEF</controllingFieldValue>
+                <valueName>VWX</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>GHI</controllingFieldValue>
+                <valueName>MNO</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>JKL</controllingFieldValue>
+                <valueName>STU</valueName>
+            </valueSettings>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>controllingchandufield__c</fullName>
+        <label>controllingchandufield</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>ABC</fullName>
+                    <default>false</default>
+                    <label>ABC</label>
+                </value>
+                <value>
+                    <fullName>DEF</fullName>
+                    <default>false</default>
+                    <label>DEF</label>
+                </value>
+                <value>
+                    <fullName>GHI</fullName>
+                    <default>false</default>
+                    <label>GHI</label>
+                </value>
+                <value>
+                    <fullName>JKL</fullName>
+                    <default>false</default>
+                    <label>JKL</label>
+                </value>
+            </valueSetDefinition>
         </valueSet>
     </fields>
     <label>Luizcustom field</label>
@@ -194,7 +246,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Luizcustom fields</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

@@ -114,6 +114,16 @@
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
     <fields>
+        <fullName>Supplying_Plant_TASKOBJECTONLY__c</fullName>
+        <label>Supplying_Plant_TASKOBJECTONLY</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>GQS_Delivering_Plan</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Supplying_Plant__c</fullName>
         <label>Supplying_Plant</label>
         <required>false</required>

@@ -17,6 +17,11 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>ActivationTgtPlatformDefId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>Connection</fullName>
         <trackHistory>false</trackHistory>
     </fields>

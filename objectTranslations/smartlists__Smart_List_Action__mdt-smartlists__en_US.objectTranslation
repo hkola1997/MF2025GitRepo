@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Smart List Action</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Smart List Actions</value>
+    </caseValues>
+    <fields>
+        <help><!-- Enter a text value or $Label­.CustomLabelName --></help>
+        <label><!-- Action Label --></label>
+        <name>smartlists__Action_Label__c</name>
+    </fields>
+    <fields>
+        <label><!-- Category --></label>
+        <name>smartlists__Category__c</name>
+        <picklistValues>
+            <masterLabel>Autolaunched Flow</masterLabel>
+            <translation><!-- Autolaunched Flow --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Screen Flow</masterLabel>
+            <translation><!-- Screen Flow --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- API name of the custom permission required for executing this action. If blank, all users can execute this action --></help>
+        <label><!-- Custom Permission --></label>
+        <name>smartlists__Custom_Permission__c</name>
+    </fields>
+    <fields>
+        <label><!-- Display Position --></label>
+        <name>smartlists__Display_Position__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flow Name --></label>
+        <name>smartlists__Flow_Name__c</name>
+    </fields>
+    <fields>
+        <help><!-- Define when the list buttons are enabled.
+- When Records are Selected in the List: the action button is only enabled when users select records in the list. The selected records are passed to the flow
+- When Records are Loaded: the action button is only enabled when records have been loaded in the list. The loaded records are passed to the flow
+- Always: the action button is enabled all the time. The loaded records are passed to the flow --></help>
+        <label><!-- List Action Availability --></label>
+        <name>smartlists__List_Action_Availibility__c</name>
+        <picklistValues>
+            <masterLabel>Always</masterLabel>
+            <translation><!-- Always --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Records are Loaded</masterLabel>
+            <translation><!-- When Records are Loaded --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>When Records are Selected</masterLabel>
+            <translation><!-- When Records are Selected --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Refresh After Execution --></label>
+        <name>smartlists__Refresh_After_Execution__c</name>
+        <picklistValues>
+            <masterLabel>List</masterLabel>
+            <translation><!-- List --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Row</masterLabel>
+            <translation><!-- Row --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Height in pixel of the Screenflow modal --></help>
+        <label><!-- Screenflow: Modal Height --></label>
+        <name>smartlists__Screenflow_Modal_Height__c</name>
+    </fields>
+    <fields>
+        <label><!-- Screenflow: Show Label in Modal Header --></label>
+        <name>smartlists__Screenflow_Show_Label_in_Modal_Header__c</name>
+    </fields>
+    <fields>
+        <label><!-- Smart List Definition --></label>
+        <name>smartlists__Smart_List_Definition__c</name>
+        <relationshipLabel><!-- Smart List Actions --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>smartlists__Type__c</name>
+        <picklistValues>
+            <masterLabel>List Action</masterLabel>
+            <translation><!-- List Action --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Row Action</masterLabel>
+            <translation><!-- Row Action --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- List Action Availability is required for List Actions --></errorMessage>
+        <name>smartlists__Check_List_Availability</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Refresh type can only be List for List Actions --></errorMessage>
+        <name>smartlists__Check_Refresh_Type</name>
+    </validationRules>
+</CustomObjectTranslation>

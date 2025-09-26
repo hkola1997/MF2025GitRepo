@@ -74,6 +74,11 @@
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
+        <fullName>DataShareConsentFormStatus</fullName>
+        <inlineHelpText>Admins or priviledged users in the receiving organization other than Salesforce Data Cloud can view and query all records of the data lake objects (DLOs) mapped to data model objects (DMOs) in the data share.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>DataShareStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>

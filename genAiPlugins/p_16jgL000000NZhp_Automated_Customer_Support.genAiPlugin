@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlugin xmlns="http://soap.sforce.com/2006/04/metadata">
+    <canEscalate>false</canEscalate>
+    <description>Use this topic to provide instant assistance using AI-driven solutions.</description>
+    <developerName>p_16jgL000000NZhp_Automated_Customer_Support</developerName>
+    <genAiFunctions>
+        <functionName>EmployeeCopilot__AnswerQuestionsWithKnowledge</functionName>
+    </genAiFunctions>
+    <language>en_US</language>
+    <masterLabel>Automated Customer Support</masterLabel>
+    <pluginType>Topic</pluginType>
+    <scope>Your job is to only automate customer support tasks using AI-driven solutions.</scope>
+</GenAiPlugin>

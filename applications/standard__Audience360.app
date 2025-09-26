@@ -11,6 +11,7 @@
     <tabs>standard-DataStream</tabs>
     <tabs>standard-DataLakeObjectInstance</tabs>
     <tabs>standard-DataModel</tabs>
+    <tabs>standard-DataGovernance</tabs>
     <tabs>standard-DataView</tabs>
     <tabs>standard-EinsteinStudio</tabs>
     <tabs>standard-SemanticModel</tabs>
@@ -30,8 +31,11 @@
     <tabs>standard-ExtDataShare</tabs>
     <tabs>standard-ExtDataShareTarget</tabs>
     <tabs>standard-DataQueryWorkspace</tabs>
+    <tabs>standard-DataCommunicationCap</tabs>
     <tabs>standard-MktDataTransform</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>standard-DataObjSecondaryIndex</tabs>
+    <tabs>standard-UnstructuredData</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>User Specific Config</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>User Specific Config</value>
+    </caseValues>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Config Code --></label>
+        <name>Config_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description_c__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

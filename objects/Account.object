@@ -306,6 +306,12 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>ChannelProgramLevelName</fullName>
+    </fields>
+    <fields>
+        <fullName>ChannelProgramName</fullName>
+    </fields>
+    <fields>
         <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -357,6 +363,13 @@
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>IsCustomerPortal</fullName>
+    </fields>
+    <fields>
+        <fullName>IsPartner</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Jigsaw</fullName>
@@ -537,12 +550,32 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Viswarecordpageclonefield2__c</fullName>
+        <externalId>false</externalId>
+        <label>Viswarecordpageclonefield2</label>
+        <length>37</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Website</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>customsettingschandana__c</fullName>
+        <externalId>false</externalId>
+        <label>customsettingschandana</label>
+        <length>66</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>email_notifications_chandu_test__c</fullName>
@@ -559,6 +592,16 @@
         <externalId>false</externalId>
         <label>nithish</label>
         <length>44</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>notifcation_chandu_test_field2__c</fullName>
+        <externalId>false</externalId>
+        <label>notifcation chandu test field2</label>
+        <length>99</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>

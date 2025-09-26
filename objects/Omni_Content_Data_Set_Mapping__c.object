@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Content_Symptom__c</fullName>
+        <externalId>false</externalId>
+        <label>Content Symptom</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Content_Workgroup_Queue__c</fullName>
+        <externalId>false</externalId>
+        <label>Content Workgroup Queue</label>
+        <length>9</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Data_Set_Category__c</fullName>
+        <externalId>false</externalId>
+        <label>Data Set Category</label>
+        <length>12</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Fallback_Workgroup_Queue__c</fullName>
+        <externalId>false</externalId>
+        <label>Fallback Workgroup Queue</label>
+        <length>18</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Is_Allow_Content_Workgroup_Overflow__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Is Allow Content Workgroup Overflow</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Is_L4_Product__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Is L4 Product</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Is_Queue_Based_Routing__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Is Queue Based Routing</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>L4_Product_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>L4 Product Name</label>
+        <length>11</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>Omni Content Data Set Mapping</label>
+    <visibility>Public</visibility>
+</CustomObject>
