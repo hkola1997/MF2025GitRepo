@@ -4,8 +4,4 @@
     <hasActivationRequired>true</hasActivationRequired>
     <label>Chatbot</label>
     <license>Cloud Integration User</license>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>

@@ -112,6 +112,9 @@
         <fullName>GrossUnitPrice</fullName>
     </fields>
     <fields>
+        <fullName>IsShippingChargeNotApplicable</fullName>
+    </fields>
+    <fields>
         <fullName>ItemizedAdjustmentAmount</fullName>
     </fields>
     <fields>
@@ -170,6 +173,9 @@
     </fields>
     <fields>
         <fullName>StockCheckMethod</fullName>
+    </fields>
+    <fields>
+        <fullName>SubType</fullName>
     </fields>
     <fields>
         <fullName>SubscriptionTerm</fullName>

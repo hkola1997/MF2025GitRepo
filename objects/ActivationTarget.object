@@ -108,6 +108,9 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>OwnedByOrg</fullName>
+    </fields>
+    <fields>
         <fullName>PlatformName</fullName>
     </fields>
     <fields>
