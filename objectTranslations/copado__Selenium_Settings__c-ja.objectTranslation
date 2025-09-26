@@ -57,11 +57,7 @@
         <name>copado__Webdriver_Proxy__c</name>
     </fields>
     <fields>
-        <help><!-- Eg for Browserstack:
-http://USER:TOKEN@hub.browserstack.com:80/wd/hub
-
-Eg for Saucelabs:
-http://USER:TOKEN@ondemand.saucelabs.com:80/wd/hub/ --></help>
+        <help>&quot;Browserstack の例：http://USER:TOKEN@hub.browserstack.com:80/wd/hubSaucelabs の例：http://USER:TOKEN@ondemand.saucelabs.com:80/wd/hub/&quot;</help>
         <label><!-- Webdriver URL --></label>
         <name>copado__Webdriver_URL__c</name>
     </fields>

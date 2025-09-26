@@ -77,8 +77,4 @@
         <tab>copado__User_Story_Task__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>

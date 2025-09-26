@@ -124,8 +124,8 @@
         </picklistValues>
     </fields>
     <fields>
-        <label><!-- Last Synced Date --></label>
-        <name>copadoconnect__Last_Synced_Date__c</name>
+        <label><!-- External Id --></label>
+        <name>copadoccmint__External_Id__c</name>
     </fields>
     <nameFieldLabel>機能名</nameFieldLabel>
 </CustomObjectTranslation>

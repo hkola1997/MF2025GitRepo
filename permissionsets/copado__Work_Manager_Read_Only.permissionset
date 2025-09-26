@@ -28,8 +28,4 @@
         <tab>copado__Work_Manager</tab>
         <visibility>Visible</visibility>
     </tabSettings>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>
