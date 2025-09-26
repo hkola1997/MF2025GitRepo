@@ -52,6 +52,514 @@
         <label><!-- Welcome Hero Title --></label>
         <name>Agentforce_Welcome_Title</name>
     </customLabels>
+    <customLabels>
+        <label><!-- AddRecordId --></label>
+        <name>smartlists__AddRecordId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- All records are loaded --></label>
+        <name>smartlists__AllRecordsLoaded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apply --></label>
+        <name>smartlists__Apply</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Available --></label>
+        <name>smartlists__Available</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>smartlists__Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CasesLists --></label>
+        <name>smartlists__CasesLists</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Checked --></label>
+        <name>smartlists__Checked</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear --></label>
+        <name>smartlists__Clear</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear All --></label>
+        <name>smartlists__ClearAll</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear All Filters --></label>
+        <name>smartlists__ClearAllFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close --></label>
+        <name>smartlists__Close</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete --></label>
+        <name>smartlists__Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Deleting a file also removes it from any records or posts it&apos;s attached to --></label>
+        <name>smartlists__DeleteFileMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Are you sure you want to delete this {0}? --></label>
+        <name>smartlists__DeleteRecordMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete {0}? --></label>
+        <name>smartlists__DeleteRecordTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Deleting --></label>
+        <name>smartlists__Deleting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download --></label>
+        <name>smartlists__Download</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download All Files --></label>
+        <name>smartlists__DownloadAllFiles</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Are you sure you want to download {0} file(s) worth {1} MB? --></label>
+        <name>smartlists__DownloadConfirm</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download Files --></label>
+        <name>smartlists__DownloadFiles</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download limit exceeded. Please download less than {0}MB and less than {1} files --></label>
+        <name>smartlists__DownloadLimit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download Menu --></label>
+        <name>smartlists__DownloadMenu</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download Selected Files --></label>
+        <name>smartlists__DownloadSelectedFiles</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit --></label>
+        <name>smartlists__Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit File Details --></label>
+        <name>smartlists__EditFileDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorMissingValue --></label>
+        <name>smartlists__ErrorMissingValue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Message: Error during New Version Upload --></label>
+        <name>smartlists__ErrorMsgCantUploadNewVersion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Message: Invalid extension for file upload --></label>
+        <name>smartlists__ErrorMsgInvalidExtension</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Errors(s) --></label>
+        <name>smartlists__Errors</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Export --></label>
+        <name>smartlists__Export</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExportToCSV --></label>
+        <name>smartlists__ExportToCSV</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Exporting --></label>
+        <name>smartlists__Exporting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- File --></label>
+        <name>smartlists__File</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- File &quot;{0}&quot; was uploaded --></label>
+        <name>smartlists__FileVersionWasUploaded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Files --></label>
+        <name>smartlists__Files</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- File(s) have been uploaded --></label>
+        <name>smartlists__FilesHasBeenUploaded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End value must be greater than Start value --></label>
+        <name>smartlists__FilterRangeEndError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- End --></label>
+        <name>smartlists__FilterRangeEndLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Max value must be greater than Min value --></label>
+        <name>smartlists__FilterRangeMaxError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Max --></label>
+        <name>smartlists__FilterRangeMaxLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Min value must be lower than Max value --></label>
+        <name>smartlists__FilterRangeMinError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Min --></label>
+        <name>smartlists__FilterRangeMinLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FilterRangeMissingValue --></label>
+        <name>smartlists__FilterRangeMissingValue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Start value must be lower than End value --></label>
+        <name>smartlists__FilterRangeStartError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Start --></label>
+        <name>smartlists__FilterRangeStartLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of Search File Content input in Filter Panel --></label>
+        <name>smartlists__FilterSOSLSearchFileContent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of Search on Record input in Filter Panel --></label>
+        <name>smartlists__FilterSOSLSearchRecord</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Msg: Search value too short --></label>
+        <name>smartlists__FilterSOSLSearchTooShortError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FilterSelection --></label>
+        <name>smartlists__FilterSelection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Filtered by --></label>
+        <name>smartlists__FilteredBy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Hide Quick Filters --></label>
+        <name>smartlists__HideQuickFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Items --></label>
+        <name>smartlists__ItemPlural</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Item --></label>
+        <name>smartlists__ItemSingular</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LoadAll --></label>
+        <name>smartlists__LoadAll</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LoadMore --></label>
+        <name>smartlists__LoadMore</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Scroll to load more records --></label>
+        <name>smartlists__LoadMoreRecords</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading --></label>
+        <name>smartlists__Loading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LookupNoResults --></label>
+        <name>smartlists__LookupNoResults</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LookupObjectSelector --></label>
+        <name>smartlists__LookupObjectSelector</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LookupPlaceholder --></label>
+        <name>smartlists__LookupPlaceholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LookupQueues --></label>
+        <name>smartlists__LookupQueues</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LookupRecent --></label>
+        <name>smartlists__LookupRecent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Maximum of {0} records loaded. Additional records maybe available --></label>
+        <name>smartlists__MaxRecordsLoaded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MinRowSelectionError --></label>
+        <name>smartlists__MinRowSelectionError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New --></label>
+        <name>smartlists__New</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next --></label>
+        <name>smartlists__Next</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No items to display. --></label>
+        <name>smartlists__NoItemsToDisplay</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoneValue --></label>
+        <name>smartlists__NoneValue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorBetween --></label>
+        <name>smartlists__OperatorBetween</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorContains --></label>
+        <name>smartlists__OperatorContains</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorDoesNotContain --></label>
+        <name>smartlists__OperatorDoesNotContain</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorEquals --></label>
+        <name>smartlists__OperatorEquals</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorGreaterOrEqual --></label>
+        <name>smartlists__OperatorGreaterOrEqual</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorGreaterThan --></label>
+        <name>smartlists__OperatorGreaterThan</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorIn --></label>
+        <name>smartlists__OperatorIn</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorIsNotNull --></label>
+        <name>smartlists__OperatorIsNotNull</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorIsNull --></label>
+        <name>smartlists__OperatorIsNull</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorLessOrEqual --></label>
+        <name>smartlists__OperatorLessOrEqual</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorLessThan --></label>
+        <name>smartlists__OperatorLessThan</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorNotEqualTo --></label>
+        <name>smartlists__OperatorNotEqualTo</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorNotIn --></label>
+        <name>smartlists__OperatorNotIn</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OperatorStartsWith --></label>
+        <name>smartlists__OperatorStartsWith</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OptionsSelected --></label>
+        <name>smartlists__OptionsSelected</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Owner --></label>
+        <name>smartlists__Owner</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preview File --></label>
+        <name>smartlists__PreviewFile</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preview Selected Files --></label>
+        <name>smartlists__PreviewSelectedFiles</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quick Filters --></label>
+        <name>smartlists__QuickFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Refresh --></label>
+        <name>smartlists__Refresh</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Remove --></label>
+        <name>smartlists__Remove</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Required Information --></label>
+        <name>smartlists__RequiredInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ReviewFieldsErrors --></label>
+        <name>smartlists__ReviewFieldsErrors</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ReviewPageErrors --></label>
+        <name>smartlists__ReviewPageErrors</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ownership Visibility Filter All --></label>
+        <name>smartlists__SOQLScopeAll</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ownership Visibility Filter My --></label>
+        <name>smartlists__SOQLScopeMy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ownership Visibility Filter My Queues --></label>
+        <name>smartlists__SOQLScopeMyQueues</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ownership Visibility - My Subordinates --></label>
+        <name>smartlists__SOQLScopeMySubordinates</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ownership Visibility Filter My Team --></label>
+        <name>smartlists__SOQLScopeMyTeam</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SOSLSearchNonSearchableFields --></label>
+        <name>smartlists__SOSLSearchNonSearchableFields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save --></label>
+        <name>smartlists__Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SavedChanges --></label>
+        <name>smartlists__SavedChanges</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Saving --></label>
+        <name>smartlists__Saving</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Search --></label>
+        <name>smartlists__Search</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SearchBoxLabel --></label>
+        <name>smartlists__SearchBoxLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SearchBoxPlaceholder --></label>
+        <name>smartlists__SearchBoxPlaceholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select an Option --></label>
+        <name>smartlists__SelectAnOption</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SelectOperator --></label>
+        <name>smartlists__SelectOperator</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Selected Options --></label>
+        <name>smartlists__SelectedOptions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Selected --></label>
+        <name>smartlists__SelectedPlural</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Selected --></label>
+        <name>smartlists__SelectedSingular</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Selections --></label>
+        <name>smartlists__Selections</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShowActions --></label>
+        <name>smartlists__ShowActions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShowMore --></label>
+        <name>smartlists__ShowMore</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Show Quick Filters --></label>
+        <name>smartlists__ShowQuickFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SortAscending --></label>
+        <name>smartlists__SortAscending</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SortDescending --></label>
+        <name>smartlists__SortDescending</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SortFieldSelection --></label>
+        <name>smartlists__SortFieldSelection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Sorted by --></label>
+        <name>smartlists__SortedBy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Unchecked --></label>
+        <name>smartlists__Unchecked</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upload --></label>
+        <name>smartlists__Upload</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upload Files --></label>
+        <name>smartlists__UploadFiles</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upload New Version --></label>
+        <name>smartlists__UploadNewVersion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upload New Version Reason --></label>
+        <name>smartlists__UploadNewVersionReason</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- View File Details --></label>
+        <name>smartlists__ViewFileDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VisibilityFilterSelection --></label>
+        <name>smartlists__VisibilityFilterSelection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- was created. --></label>
+        <name>smartlists__WasCreated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- was deleted. --></label>
+        <name>smartlists__WasDeleted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- was saved. --></label>
+        <name>smartlists__WasSaved</name>
+    </customLabels>
     <customTabs>
         <label><!-- Welcome --></label>
         <name>Welcome</name>

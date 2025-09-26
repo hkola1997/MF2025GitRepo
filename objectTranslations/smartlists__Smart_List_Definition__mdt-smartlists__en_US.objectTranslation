@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Smart List Definition</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Smart List Definitions</value>
+    </caseValues>
+    <fields>
+        <help><!-- Comma separated list of allowed extensions for file upload. Example: txt,jpg,docx --></help>
+        <label><!-- Allowed Extensions --></label>
+        <name>smartlists__Allowed_Extensions__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data Provider Class --></label>
+        <name>smartlists__Data_Provider_Class__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data Source Type --></label>
+        <name>smartlists__Data_Source_Type__c</name>
+        <picklistValues>
+            <masterLabel>Apex Data Source</masterLabel>
+            <translation><!-- Apex Data Source --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Files</masterLabel>
+            <translation><!-- Files --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SOQL with Sharing</masterLabel>
+            <translation><!-- SOQL with Sharing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SOQL without Sharing</masterLabel>
+            <translation><!-- SOQL without Sharing --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Default Sort Direction of the list --></help>
+        <label><!-- Default Sort Direction --></label>
+        <name>smartlists__Default_Sort_Direction__c</name>
+        <picklistValues>
+            <masterLabel>asc</masterLabel>
+            <translation><!-- asc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>desc</masterLabel>
+            <translation><!-- desc --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Name of the field used for sorting the records --></help>
+        <label><!-- Default Sort Field (Deprecated) --></label>
+        <name>smartlists__Default_Sort_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, no records will be loaded when the list is displayed for the first time. Typically used for search lists where users are expected to enter search criteria to view records. --></help>
+        <label><!-- Disable Autoload on Initialization --></label>
+        <name>smartlists__Disable_Autoload__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, the paging mode is disabled and all the records are loaded when the list is displayed for the first time or a search is made in the Filters panel --></help>
+        <label><!-- Disable Paging --></label>
+        <name>smartlists__Disable_Paging__c</name>
+    </fields>
+    <fields>
+        <help><!-- Display the list as Table or Tiles --></help>
+        <label><!-- Display Mode --></label>
+        <name>smartlists__Display_Mode__c</name>
+        <picklistValues>
+            <masterLabel>Table</masterLabel>
+            <translation><!-- Table --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tiles</masterLabel>
+            <translation><!-- Tiles --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Display the Filters Panel all the time. The panel cannot be closed --></help>
+        <label><!-- Display Filters Panel All the Time --></label>
+        <name>smartlists__Display_Quick_Filters_All_the_Time__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, New, Edit and Delete record actions are available in the list if the running user has the corresponding permissions on the object --></help>
+        <label><!-- Enable all Record Actions --></label>
+        <name>smartlists__Enable_CRUD_Actions__c</name>
+    </fields>
+    <fields>
+        <help><!-- The Delete record action is displayed if the running user has Delete right on the object.
+This property is only considered when Enable all Record Actions is not checked --></help>
+        <label><!-- Enable Delete Record Action --></label>
+        <name>smartlists__Enable_Delete_Record_Action__c</name>
+    </fields>
+    <fields>
+        <help><!-- The Edit record action is displayed if the running user has Edit right on the object.
+This property is only considered when Enable all Record Actions is not checked --></help>
+        <label><!-- Enable Edit Record Action --></label>
+        <name>smartlists__Enable_Edit_Record_Action__c</name>
+    </fields>
+    <fields>
+        <help><!-- The New record action is displayed if the running user has Create right on the object.
+This property is only considered when Enable all Record Actions is not checked --></help>
+        <label><!-- Enable New Record Action --></label>
+        <name>smartlists__Enable_New_Record_Action__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, record ids are added by default to the export --></help>
+        <label><!-- Export to CSV: Add Record Id --></label>
+        <name>smartlists__Export_to_CSV_Add_Record_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Export  to CSV: Display Button --></label>
+        <name>smartlists__Export_to_CSV_Display_Button__c</name>
+        <picklistValues>
+            <masterLabel>For Users with Custom Permission &apos;Export to CSV&apos;</masterLabel>
+            <translation><!-- For Users with Custom Permission &apos;Export to CSV&apos; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>For all Users</masterLabel>
+            <translation><!-- For all Users --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Never</masterLabel>
+            <translation><!-- Never --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If checked, the Export to CSV button is displayed --></help>
+        <label><!-- Export to CSV (Deprecated) --></label>
+        <name>smartlists__Export_to_CSV__c</name>
+    </fields>
+    <fields>
+        <help><!-- Maximum height of the Filters Panel in pixels. A scrollbar will appear if the panel height exceeds this value.
+Leave it blank if you do not wish to limit the height of the Filters Panel. --></help>
+        <label><!-- Filters Panel Max Height --></label>
+        <name>smartlists__Filters_Max_Height__c</name>
+    </fields>
+    <fields>
+        <label><!-- Filters Panel Columns --></label>
+        <name>smartlists__Filters_Panel_Columns__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Specifies if the Filters Panel is displayed on the right or the left of the list and if a user action is needed to display/hide it.
+On Demand: users needs to click the Show Filters button to display the panel.
+All the Time: the panel is always displayed and cannot be hidden --></help>
+        <label><!-- Filters Panel Layout --></label>
+        <name>smartlists__Filters_Panel_Layout__c</name>
+        <picklistValues>
+            <masterLabel>Left - All the Time</masterLabel>
+            <translation><!-- Left - All the Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Left - On Demand</masterLabel>
+            <translation><!-- Left - On Demand --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Right - All the Time</masterLabel>
+            <translation><!-- Right - All the Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Right - On Demand</masterLabel>
+            <translation><!-- Right - On Demand --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Hide Load All Button --></label>
+        <name>smartlists__Hide_Load_All_Button__c</name>
+    </fields>
+    <fields>
+        <help><!-- Name of a SLDS icon formatted as [icon category in lower case]:[icon name in lower case]. Example: standard:account
+https://www.lightningdesignsystem.com/icons/
+If empty, Smart Lists will try to determine the icon for the list SObject
+Required for Apex Data Sources without SObject. --></help>
+        <label><!-- List Icon --></label>
+        <name>smartlists__List_Icon__c</name>
+    </fields>
+    <fields>
+        <help><!-- Label of the list. If left blank, the list label will be the plural label of the list SObject: Cases for Case.
+Required for Apex Data Sources without SObject.
+For multi-lingual implementations, you can specify a custom label: $Label­.CustomLabelName --></help>
+        <label><!-- List Label --></label>
+        <name>smartlists__List_Label__c</name>
+    </fields>
+    <fields>
+        <help><!-- Maximum number of rows that can be selected in the list. Set to 1 if you want users to select 1 row at a time --></help>
+        <label><!-- Max Row Selected --></label>
+        <name>smartlists__Max_Row_Selected__c</name>
+    </fields>
+    <fields>
+        <help><!-- Maximum number of records displayed in the list --></help>
+        <label><!-- Maximum Number of Records --></label>
+        <name>smartlists__Maximum_Number_of_Records__c</name>
+    </fields>
+    <fields>
+        <help><!-- Label of the New Record Action. Defaulted to &apos;New&apos; if left blank. Enter a different value if you need another label such as &apos;Add&apos; --></help>
+        <label><!-- New Record Action Label --></label>
+        <name>smartlists__New_Record_Action_Label__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Records per Page --></label>
+        <name>smartlists__Number_of_Records_per_Page__c</name>
+    </fields>
+    <fields>
+        <help><!-- Field containing the Id of the parent record. Not used in Files lists
+Example: For a Cases list on an Account page, AccountId is used for retrieving Cases related to the parent account --></help>
+        <label><!-- Parent Id Field (Not for Files Lists) --></label>
+        <name>smartlists__Parent_Id_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- For indirect relationships (parent-child relationships not using the parent record id), API name of the field to be used as the parent key on the parent object.
+Example of indirect relationship: Case is the parent object and the list is displaying the Contacts related to the Account of the parent Case record -&gt; Parent Object = Case and Parent Key Field = AccountId --></help>
+        <label><!-- Indirect Relationship: Parent Key Field --></label>
+        <name>smartlists__Parent_Key_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- For indirect relationships (parent-child relationships not using the parent record id), API name of the parent object
+Example of indirect relationship: Case is the parent object and the list is displaying the Contacts related to the Account of the parent Case record -&gt; Parent Object = Case and Parent Key Field = AccountId --></help>
+        <label><!-- Indirect Relationship: Parent Object (De --></label>
+        <name>smartlists__Parent_Object__c</name>
+    </fields>
+    <fields>
+        <help><!-- Field for identifying a unique row in the dataset returned by the Apex data source. --></help>
+        <label><!-- Row Key --></label>
+        <name>smartlists__Row_Key__c</name>
+    </fields>
+    <fields>
+        <help><!-- First number of the rows counter --></help>
+        <label><!-- Row Number Start --></label>
+        <name>smartlists__Row_Number_Start__c</name>
+    </fields>
+    <fields>
+        <help><!-- Default Visibility Filter displayed in the Visibility Filters combobox of the list --></help>
+        <label><!-- Default Visibility Filter --></label>
+        <name>smartlists__SOQL_Default_Scope__c</name>
+        <picklistValues>
+            <masterLabel>All</masterLabel>
+            <translation><!-- All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My</masterLabel>
+            <translation><!-- My --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My Queues</masterLabel>
+            <translation><!-- My Queues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My Subordinates</masterLabel>
+            <translation><!-- My Subordinates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My Team</masterLabel>
+            <translation><!-- My Team --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- SOQL Filter Type (Deprecated) --></label>
+        <name>smartlists__SOQL_Filter_Type__c</name>
+        <picklistValues>
+            <masterLabel>All</masterLabel>
+            <translation><!-- All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>My</masterLabel>
+            <translation><!-- My --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- SOQL filter used for querying the records. Example: Status = &apos;Open&apos;.
+Used for SOQL type only --></help>
+        <label><!-- SOQL Filter (Deprecated) --></label>
+        <name>smartlists__SOQL_Filter__c</name>
+    </fields>
+    <fields>
+        <help><!-- Returns all records visible by the running user --></help>
+        <label><!-- Visibility Filter - All --></label>
+        <name>smartlists__SOQL_Scope_All__c</name>
+    </fields>
+    <fields>
+        <help><!-- Returns records owned by queues the running user is part of --></help>
+        <label><!-- Visibility Filter - My Queues --></label>
+        <name>smartlists__SOQL_Scope_My_Queues__c</name>
+    </fields>
+    <fields>
+        <label><!-- Visibility Filter - My Subordinates --></label>
+        <name>smartlists__SOQL_Scope_My_Subordinates__c</name>
+    </fields>
+    <fields>
+        <help><!-- Returns records owned by the running user or his subordinates in the role hierarchy. Make sure this scope is supported for the object (Equivalent of My Team filter in report). Cannot be selected if Show SOSL Search in Quick Filter is checked --></help>
+        <label><!-- Visibility Filter - My Team --></label>
+        <name>smartlists__SOQL_Scope_My_Team__c</name>
+    </fields>
+    <fields>
+        <help><!-- Returns records owned by the running user --></help>
+        <label><!-- Visibility Filter - My --></label>
+        <name>smartlists__SOQL_Scope_My__c</name>
+    </fields>
+    <fields>
+        <help><!-- For SOQL with/with Sharing datasource, base SObject of the list
+For Apex datasource, SObject used for New, Edit and Delete --></help>
+        <label><!-- SObject --></label>
+        <name>smartlists__SObject__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, users can select rows in the list --></help>
+        <label><!-- Selectable Rows --></label>
+        <name>smartlists__Selectable_Rows__c</name>
+    </fields>
+    <fields>
+        <label><!-- Show Table Header --></label>
+        <name>smartlists__Show_List_Header__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, the row numbers are shown in the first column --></help>
+        <label><!-- Show Row Number Column --></label>
+        <name>smartlists__Show_Row_Number_Column__c</name>
+    </fields>
+    <fields>
+        <help><!-- Show SOSL Search --></help>
+        <label><!-- Show SOSL Search --></label>
+        <name>smartlists__Show_SOSL_Search__c</name>
+        <picklistValues>
+            <masterLabel>In Component</masterLabel>
+            <translation><!-- In Component --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Filters Panel</masterLabel>
+            <translation><!-- In Filters Panel --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Displayed</masterLabel>
+            <translation><!-- Not Displayed --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Display the SOSL Search in the Filters widget.
+Can only be selected if the visibility filter My Team is not selected --></help>
+        <label><!-- Show SOSL Search in Filters (Deprecated) --></label>
+        <name>smartlists__Show_SOSL_Search_in_Quick_Filter__c</name>
+    </fields>
+    <fields>
+        <help><!-- If set, defined the height of the table in pixels. If not set, the height is automatically calculated based on the value of Number of Records per Page --></help>
+        <label><!-- Table Height in Pixels --></label>
+        <name>smartlists__Table_Height__c</name>
+    </fields>
+    <fields>
+        <help><!-- Select tile layout: number of tiles per row x number of colums per tile.
+As an example, 2x2 means 2 tiles per row of the widget x 2 field colum per tile --></help>
+        <label><!-- Tile Layout --></label>
+        <name>smartlists__Tile_Layout__c</name>
+        <picklistValues>
+            <masterLabel>1x1</masterLabel>
+            <translation><!-- 1x1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1x2</masterLabel>
+            <translation><!-- 1x2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1x3</masterLabel>
+            <translation><!-- 1x3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2x1</masterLabel>
+            <translation><!-- 2x1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2x2</masterLabel>
+            <translation><!-- 2x2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3x1</masterLabel>
+            <translation><!-- 3x1 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If present, the column headers are wrapped up to 3 lines if they are too wide for the column width. If unchecked, the column headers are displayed in a singled line and clipped if needed --></help>
+        <label><!-- Wrap Column Headers --></label>
+        <name>smartlists__Wrap_Column_Headers__c</name>
+    </fields>
+    <fields>
+        <help><!-- Maximum number of text lines displayed in a cell when Wrap Text is enabled on a column --></help>
+        <label><!-- Wrap Text Max Lines --></label>
+        <name>smartlists__Wrap_Text_Max_Lines__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Data Provider Class is required for type &apos;	Apex Data Source&apos; --></errorMessage>
+        <name>smartlists__Check_Data_Provider</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The default filter is not one of the selected filters --></errorMessage>
+        <name>smartlists__Check_Default_Scope</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enable All Record Actions cannot be checked when individual record actions are selected --></errorMessage>
+        <name>smartlists__Check_Enable_All_CRUD_Actions</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Record actions cannot be enabled for Files Lists --></errorMessage>
+        <name>smartlists__Check_Enable_CRUD_Actions</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Files datasource: Parent Object, Parent Key Field and Parent Id are required for an indirect relationship --></errorMessage>
+        <name>smartlists__Check_Indirect_Relationship_FILES</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- SOQL or APEX Data Source: Parent Key Field and Parent Id are required for an indirect relationship --></errorMessage>
+        <name>smartlists__Check_Indirect_Relationship_SOQL_APEX</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Tile Layout is required when Display Mode is Tiles --></errorMessage>
+        <name>smartlists__Check_Layout_For_Tiles</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- List Icon is required for APEX Data Source without SObject --></errorMessage>
+        <name>smartlists__Check_List_Icon_APEX</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- List Label is required for APEX Data Source without SObject --></errorMessage>
+        <name>smartlists__Check_List_Label_APEX</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Parent Id Field is required for Apex Data Source with Parent --></errorMessage>
+        <name>smartlists__Check_Parent_Field</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Row Key is required for type &apos; Apex Data Source&apos; --></errorMessage>
+        <name>smartlists__Check_RowKey</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- SObject is required for types &apos;SOQL with/without Sharing&apos; --></errorMessage>
+        <name>smartlists__Check_SObject</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- SObject is required when record actions are enabled on an Apex Data Source --></errorMessage>
+        <name>smartlists__Check_SObject_APEX</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Show SOQL Search in Quick Filter cannot be selected with the My Team records scope --></errorMessage>
+        <name>smartlists__Check_Show_Sosl_Search</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Show SOQL Search in Component or Filters Panel cannot be selected with the My Team visibility filter --></errorMessage>
+        <name>smartlists__Check_Show_Sosl_Search_Picklist</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Wrap Text Max Lines must be greater than 0 --></errorMessage>
+        <name>smartlists__Check_Wrap_Text_Max_Lines</name>
+    </validationRules>
+</CustomObjectTranslation>

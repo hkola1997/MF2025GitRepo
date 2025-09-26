@@ -93,5 +93,8 @@
         <knowledgeActionEnabled>false</knowledgeActionEnabled>
         <knowledgeFallbackEnabled>false</knowledgeFallbackEnabled>
         <smallTalkEnabled>false</smallTalkEnabled>
+        <stopRecPrompts>false</stopRecPrompts>
+        <stopWelcomePrompts>false</stopWelcomePrompts>
+        <surfacesEnabled>false</surfacesEnabled>
     </botVersions>
 </Bot>

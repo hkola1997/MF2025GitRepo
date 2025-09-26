@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Smart List Filter</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Smart List Filters</value>
+    </caseValues>
+    <fields>
+        <help><!-- API name of the custom permission required for viewing this filter. If blank, all users can view this filter --></help>
+        <label><!-- Custom Permission --></label>
+        <name>smartlists__Custom_Permission__c</name>
+    </fields>
+    <fields>
+        <label><!-- Default Filter --></label>
+        <name>smartlists__Default_Filter__c</name>
+    </fields>
+    <fields>
+        <help><!-- Enter a text value or $Label­.CustomLabelName --></help>
+        <label><!-- Filter Label --></label>
+        <name>smartlists__Filter_Label__c</name>
+    </fields>
+    <fields>
+        <help><!-- SOQL filter used for querying the records. Example: Status = &apos;Open&apos;.
+Used for SOQL type only --></help>
+        <label><!-- SOQL Filter --></label>
+        <name>smartlists__SOQL_Filter__c</name>
+    </fields>
+    <fields>
+        <label><!-- Smart List Definition --></label>
+        <name>smartlists__Smart_List_Definition__c</name>
+        <relationshipLabel><!-- Smart List Filters --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- SOQL Filter is required for SOQL and Files list --></errorMessage>
+        <name>smartlists__Check_SOQL_Filter</name>
+    </validationRules>
+</CustomObjectTranslation>

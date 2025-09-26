@@ -86,5 +86,15 @@
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <listViews>
+        <fullName>All_DataCommunicationCaps</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All Communication Cappings</label>
+    </listViews>
+    <listViews>
+        <fullName>My_DataCommunicationCaps</fullName>
+        <filterScope>Mine</filterScope>
+        <label>My Communication Cappings</label>
+    </listViews>
     <sharingModel>Private</sharingModel>
 </CustomObject>

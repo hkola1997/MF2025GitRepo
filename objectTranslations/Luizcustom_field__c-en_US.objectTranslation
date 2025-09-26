@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Luizcustom field</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Luizcustom fields</value>
+    </caseValues>
+    <fields>
+        <label><!-- controlled field --></label>
+        <name>controlled_field__c</name>
+        <picklistValues>
+            <masterLabel>MNO</masterLabel>
+            <translation><!-- MNO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PQR</masterLabel>
+            <translation><!-- PQR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STU</masterLabel>
+            <translation><!-- STU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VWX</masterLabel>
+            <translation><!-- VWX --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
