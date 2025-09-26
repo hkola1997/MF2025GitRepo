@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Smart List Field</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Smart List Fields</value>
+    </caseValues>
+    <fields>
+        <help><!-- API name of the formula field returning the background and text color of the badge --></help>
+        <label><!-- Badge Style Field --></label>
+        <name>smartlists__Badge_Style_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- Width of the column in pixels. If left empty, the width is automatically determined by the system --></help>
+        <label><!-- Column Width --></label>
+        <name>smartlists__Column_Width__c</name>
+    </fields>
+    <fields>
+        <label><!-- Default Sort Field --></label>
+        <name>smartlists__Default_Sort_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- Position of the field in the list from lowest to greatest --></help>
+        <label><!-- Display Order --></label>
+        <name>smartlists__Display_Order__c</name>
+    </fields>
+    <fields>
+        <help><!-- Position of the field in the list from lowest to greatest --></help>
+        <label><!-- Display Position in List --></label>
+        <name>smartlists__Display_Position__c</name>
+    </fields>
+    <fields>
+        <help><!-- Position of the field in the Filters Panel from lowest to greatest. If not specified, the display position is determined by the display position in the list --></help>
+        <label><!-- Display Position in Filters Panel --></label>
+        <name>smartlists__Display_Position_in_Quick_Filters__c</name>
+    </fields>
+    <fields>
+        <help><!-- Display type of the field. Required with Apex Data Source lists. 
+File Preview can only be used with Files lists. --></help>
+        <label><!-- Display Type --></label>
+        <name>smartlists__Display_Type__c</name>
+        <picklistValues>
+            <masterLabel>Boolean</masterLabel>
+            <translation><!-- Boolean --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Click-to-Dial</masterLabel>
+            <translation><!-- Click-to-Dial --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Currency</masterLabel>
+            <translation><!-- Currency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Currency Converted</masterLabel>
+            <translation><!-- Currency Converted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Currency Formatted</masterLabel>
+            <translation><!-- Currency Formatted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Date</masterLabel>
+            <translation><!-- Date --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Datetime</masterLabel>
+            <translation><!-- Datetime --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Double</masterLabel>
+            <translation><!-- Double --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email</masterLabel>
+            <translation><!-- Email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>File Preview</masterLabel>
+            <translation><!-- File Preview --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Html</masterLabel>
+            <translation><!-- Html --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hyperlink to Detail</masterLabel>
+            <translation><!-- Hyperlink to Detail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Integer</masterLabel>
+            <translation><!-- Integer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Location</masterLabel>
+            <translation><!-- Location --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Percent</masterLabel>
+            <translation><!-- Percent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone</masterLabel>
+            <translation><!-- Phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist</masterLabel>
+            <translation><!-- Picklist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>String</masterLabel>
+            <translation><!-- String --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Time</masterLabel>
+            <translation><!-- Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>URL</masterLabel>
+            <translation><!-- URL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>URL with Label</masterLabel>
+            <translation><!-- URL with Label --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If checked, the field will be rendered as a badge --></help>
+        <label><!-- Display as Badge --></label>
+        <name>smartlists__Display_as_Badge__c</name>
+    </fields>
+    <fields>
+        <help><!-- API  name of a text formula field returning the dynamic styling attributes of the field --></help>
+        <label><!-- Dynamic Style Field --></label>
+        <name>smartlists__Dynamic_Style_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inline Edit --></label>
+        <name>smartlists__Editable_in_List__c</name>
+    </fields>
+    <fields>
+        <help><!-- Specify how the content is aligned in the cells --></help>
+        <label><!-- Field Alignment --></label>
+        <name>smartlists__Field_Alignment__c</name>
+        <picklistValues>
+            <masterLabel>Center</masterLabel>
+            <translation><!-- Center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Left</masterLabel>
+            <translation><!-- Left --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Right</masterLabel>
+            <translation><!-- Right --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Enter a text value or $Label­.CustomLabelName or leave blank.
+Required with Apex Data Source lists.
+With Files and SOQL lists, the label of the database field is used if left blank --></help>
+        <label><!-- Field Label --></label>
+        <name>smartlists__Field_Label__c</name>
+    </fields>
+    <fields>
+        <help><!-- With SOQL and Files lists, API name of the field. Can include a reference to a parent object: Owner.Name or ProductType__r.Subtype__c
+
+Field name for Apex Data Source --></help>
+        <label><!-- Field Name --></label>
+        <name>smartlists__Field_Name__c</name>
+    </fields>
+    <fields>
+        <help><!-- Used with Files lists only. If checked, the field is displayed in the File Edit Form. --></help>
+        <label><!-- Editable in File Edit Form --></label>
+        <name>smartlists__File_Edit__c</name>
+        <picklistValues>
+            <masterLabel>Editable</masterLabel>
+            <translation><!-- Editable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Editable and required</masterLabel>
+            <translation><!-- Editable and required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- This field is deprecated: Use Display in Quick Filters instead
+The field is filterable in the quick filters. Only used with Apex Data Source --></help>
+        <label><!-- Filterable (Deprecated) --></label>
+        <name>smartlists__Filterable__c</name>
+    </fields>
+    <fields>
+        <help><!-- Only used if Display Type = Hyperlink to Detail.
+Field of the record containing the Id of the target record.
+For SOQL and Files list, enter a value if you don&apos;t want to use the default value
+Required for Apex Data Source. --></help>
+        <label><!-- Hyperlink to Detail: Id Field --></label>
+        <name>smartlists__Hyperlink_to_Detail_Id_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, the field is displayed in the list.
+Leave unchecked if you don&apos;t want to display the field in the list but want to display it in the Quick Filters or in the File Edit Form --></help>
+        <label><!-- Display in List --></label>
+        <name>smartlists__List_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- SOQL Filter used for retrieving the records in a lookup field.
+Example: Type = &apos;Dealer&apos; AND Active__c = true --></help>
+        <label><!-- Lookup: SOQL Filter --></label>
+        <name>smartlists__Lookup_SOQL_Filter__c</name>
+    </fields>
+    <fields>
+        <help><!-- Field that is displayed in the lookup search results in addition to Name
+Must be a Text field --></help>
+        <label><!-- Lookup Subtitle Field --></label>
+        <name>smartlists__Lookup_Subtitle_Field__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, the filter is displayed as a lookup in the Filters Panel. Otherwise, it is displayed as text field
+Examples for Account.Name on Cases list:
+- if checked and user picks the Edge Corp. account, the search will return all cases related to this account.
+- If unchecked and user enters Acme in the text field, the search will return all the cases related to accounts containing Acme in their name: Acme Corp., Acme Construction
+Only available for related fields of type Text --></help>
+        <label><!-- Lookup in Filters Panel --></label>
+        <name>smartlists__Lookup_in_Quick_Filters__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of columns --></label>
+        <name>smartlists__Number_of_columns__c</name>
+    </fields>
+    <fields>
+        <help><!-- If &apos;Yes if Filterable&apos; is selected, the field will be added to the Filters Panel if it is filterable at the object level. Some fields are not filterable because of their data type or because they are encrypted with the probabilistic algorithm --></help>
+        <label><!-- Display in Filters Panel --></label>
+        <name>smartlists__Quick_Filters_Field__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes if Filterable</masterLabel>
+            <translation><!-- Yes if Filterable --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Smart List Definition --></label>
+        <name>smartlists__Smart_List_Definition__c</name>
+        <relationshipLabel><!-- Smart List Fields --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- This field is deprecated: Use Sortable in list instead
+The field is sortable in the list. Only used with Apex Data Source --></help>
+        <label><!-- Sortable (Deprecated) --></label>
+        <name>smartlists__Sortable__c</name>
+    </fields>
+    <fields>
+        <help><!-- With &apos;Yes if Sortable (Nulls First) or (Nulls Last)&apos; is selected, the field will be sortable in the list if the data type of the field is sortable in Salesforce. Example: Text is sortable and Text Area Long is not
+Nulls First: null values are displayed before non null values
+Nulls Last: null values are displayed after non null values --></help>
+        <label><!-- Sortable in List --></label>
+        <name>smartlists__Sortable_in_List__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes if Sortable (Nulls First)</masterLabel>
+            <translation><!-- Yes if Sortable (Nulls First) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes if Sortable (Nulls Last)</masterLabel>
+            <translation><!-- Yes if Sortable (Nulls Last) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If checked, the field is part of the Tite header, otherwise it is part of the tile content --></help>
+        <label><!-- Display in Tile Header --></label>
+        <name>smartlists__Tile_Header__c</name>
+    </fields>
+    <fields>
+        <help><!-- Select _self if you want to display the URL in the current tab. Select _blank if you want to display the URL in a new tab.
+Note: _self can only be used with Salesforce URLs. Non Salesforce URLs are opened in a new tab --></help>
+        <label><!-- URL with Label: Target --></label>
+        <name>smartlists__URL_Target__c</name>
+        <picklistValues>
+            <masterLabel>_blank</masterLabel>
+            <translation><!-- _blank --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>_parent</masterLabel>
+            <translation><!-- _parent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>_self (Salesforce URL only)</masterLabel>
+            <translation><!-- _self (Salesforce URL only) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>_top</masterLabel>
+            <translation><!-- _top --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Field returning the URL associated to the URL label returned by Field Name --></help>
+        <label><!-- URL with Label: Value --></label>
+        <name>smartlists__URL_Value__c</name>
+    </fields>
+    <fields>
+        <help><!-- If checked, the row will be expanded to display the content of the cell on several lines. Otherwise, the content of the cell is clipped to the size of the column --></help>
+        <label><!-- Wrap Text --></label>
+        <name>smartlists__Wrap_Text__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Badge Style Field is required if the field is displayed as a Badge --></errorMessage>
+        <name>smartlists__Check_Badge_Style_Field</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Display Position is required for List fields --></errorMessage>
+        <name>smartlists__Check_Display_Position</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Display Position is required for Filters Panel fields --></errorMessage>
+        <name>smartlists__Check_Display_Position_QuickFilters</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Picklist is not supported for Apex Data Source lists. --></errorMessage>
+        <name>smartlists__Check_Display_Type_Picklist</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Display Type is required for Apex Data Source lists. --></errorMessage>
+        <name>smartlists__Check_Display_Type_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Fields can only be edited if they are on the base object or are related to a parent record of the base object.
+Example on Account: Parent.Parent.Name is not editable because it is on the parent account  of the parent account. Parent.Name is editable --></errorMessage>
+        <name>smartlists__Check_Editable_in_List_Related_Fields</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Field Label is required for Apex Data Source lists. --></errorMessage>
+        <name>smartlists__Check_Field_Label</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- &apos;File Preview&apos; can only be used with Files list --></errorMessage>
+        <name>smartlists__Check_File_Preview</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Hyperlink to Detail Id Field is required when Display Type is Hyperlink to Detail for an Apex Data Source --></errorMessage>
+        <name>smartlists__Check_Hyperlink_To_Detail</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Lookup Subtitle cannot be a related field such as Account.Name --></errorMessage>
+        <name>smartlists__Check_Lookup_Subtitle</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Lookup in Quick Filters is only available for related parent fields such as Account.Name or for Owner. It is not available for base fields such as Name or related grand parent fields such as Account.Parent.Name --></errorMessage>
+        <name>smartlists__Check_Lookup_on_Related_Field</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Number of Columns must be between 1 and 3 --></errorMessage>
+        <name>smartlists__Check_Number_of_Columns</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- URL Value is required for Display Type &apos;URL with Label&apos; --></errorMessage>
+        <name>smartlists__Check_URL_Value</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -20,6 +20,26 @@
                             </visibilityRule>
                         </valueListItems>
                         <valueListItems>
+                            <value>copado__Deployment_Flow__c.copado__Pipeline_Manager</value>
+                            <visibilityRule>
+                                <criteria>
+                                    <leftValue>{!Record.copado__Platform__c}</leftValue>
+                                    <operator>NE</operator>
+                                    <rightValue>Salesforce</rightValue>
+                                </criteria>
+                            </visibilityRule>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Deployment_Flow__c.copado__Pipeline_Builder</value>
+                            <visibilityRule>
+                                <criteria>
+                                    <leftValue>{!Record.copado__Platform__c}</leftValue>
+                                    <operator>NE</operator>
+                                    <rightValue>Salesforce</rightValue>
+                                </criteria>
+                            </visibilityRule>
+                        </valueListItems>
+                        <valueListItems>
                             <value>copado__Deployment_Flow__c.copado__Initialise</value>
                             <visibilityRule>
                                 <criteria>
@@ -30,17 +50,10 @@
                             </visibilityRule>
                         </valueListItems>
                         <valueListItems>
-                            <value>copado__Deployment_Flow__c.copado__Setup_Continuous_Delivery</value>
-                            <visibilityRule>
-                                <criteria>
-                                    <leftValue>{!Record.copado__Platform__c}</leftValue>
-                                    <operator>NE</operator>
-                                    <rightValue>Salesforce</rightValue>
-                                </criteria>
-                            </visibilityRule>
+                            <value>copado__Deployment_Flow__c.copado__Exclude_Completed_Stories</value>
                         </valueListItems>
                         <valueListItems>
-                            <value>copado__Deployment_Flow__c.copado__Exclude_Completed_Stories</value>
+                            <value>CustomButton.copado__Deployment_Flow__c.copado__Find_Replace_Rule_Editor</value>
                         </valueListItems>
                         <valueListItems>
                             <value>copado__Deployment_Flow__c.copado__Configure_prefetch_volume</value>
@@ -73,12 +86,6 @@
                             </visibilityRule>
                         </valueListItems>
                         <valueListItems>
-                            <value>CustomButton.copado__Deployment_Flow__c.copado__Find_Replace_Rule_Editor</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Deployment_Flow__c.copado__Clone_with_Environments</value>
-                        </valueListItems>
-                        <valueListItems>
                             <value>CustomButton.copado__Deployment_Flow__c.copado__Select_Main_Branch</value>
                         </valueListItems>
                         <valueListItems>
@@ -92,20 +99,13 @@
                             </visibilityRule>
                         </valueListItems>
                         <valueListItems>
+                            <value>copado__Deployment_Flow__c.copado__Clone_with_Environments</value>
+                        </valueListItems>
+                        <valueListItems>
                             <value>Clone</value>
                         </valueListItems>
                         <valueListItems>
                             <value>Delete</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Deployment_Flow__c.copado__Pipeline_Builder</value>
-                            <visibilityRule>
-                                <criteria>
-                                    <leftValue>{!Record.copado__Platform__c}</leftValue>
-                                    <operator>NE</operator>
-                                    <rightValue>Salesforce</rightValue>
-                                </criteria>
-                            </visibilityRule>
                         </valueListItems>
                     </valueList>
                 </componentInstanceProperties>
@@ -127,7 +127,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>numVisibleActions</name>
-                    <value>3</value>
+                    <value>4</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
                 <identifier>force_highlightsPanel</identifier>
@@ -209,6 +209,13 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Manage_Branches__c</fieldItem>
                 <identifier>RecordManage_Branches_cField1</identifier>
+                <visibilityRule>
+                    <criteria>
+                        <leftValue>{!Record.copado__Platform__c}</leftValue>
+                        <operator>EQUAL</operator>
+                        <rightValue>Salesforce</rightValue>
+                    </criteria>
+                </visibilityRule>
             </fieldInstance>
         </itemInstances>
         <name>Facet-8c7a041c-9148-410c-85f5-3c27d0dea8dd</name>
@@ -625,6 +632,18 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+                    <name>actionNames</name>
+                    <valueList>
+                        <valueListItems>
+                            <value>New</value>
+                        </valueListItems>
+                    </valueList>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>maxRecordsToDisplay</name>
+                    <value>10</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
                     <name>parentFieldApiName</name>
                     <value>copado__Deployment_Flow__c.Id</value>
                 </componentInstanceProperties>
@@ -633,19 +652,62 @@
                     <value>copado__Quality_Gate_Rule_Conditions__r</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>relatedListComponentOverride</name>
+                    <name>relatedListDisplayType</name>
                     <value>ADVGRID</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>rowsToDisplay</name>
-                    <value>10</value>
+                    <name>relatedListFieldAliases</name>
+                    <valueList>
+                        <valueListItems>
+                            <value>copado__Quality_Gate_Rule__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Status__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Tool__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__ExecutionSequence__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Actions__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Tests_From__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Environment__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>copado__Stage__c</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>UPDATEDBY_USER</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>LAST_UPDATE</value>
+                        </valueListItems>
+                    </valueList>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>relatedListLabel</name>
+                    <value>{!$Label.copado__QualityGateRules}</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>showActionBar</name>
                     <value>false</value>
                 </componentInstanceProperties>
-                <componentName>force:relatedListSingleContainer</componentName>
-                <identifier>force_relatedListSingleContainer10</identifier>
+                <componentInstanceProperties>
+                    <name>sortFieldAlias</name>
+                    <value>CREATED_DATE</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>sortFieldOrder</name>
+                    <value>Descending</value>
+                </componentInstanceProperties>
+                <componentName>lst:dynamicRelatedList</componentName>
+                <identifier>lst_dynamicRelatedList4</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-1e178836-e01a-4a75-aa80-1833ad227754</name>

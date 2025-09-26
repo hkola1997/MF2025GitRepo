@@ -10,6 +10,10 @@ global class Feature implements copado.CopadoDomain {
         get;
         set;
     }
+    global static copado.Feature.Queue Queue {
+        get;
+        set;
+    }
     global Feature() {
 
     }
@@ -17,6 +21,9 @@ global class Feature implements copado.CopadoDomain {
         return null;
     }
     global static Boolean isAutomateGovOrgEnabled() {
+        return null;
+    }
+    global static Boolean isBackPromotionEnvSyncEnabled() {
         return null;
     }
     global static Boolean isCCHEnabled() {
@@ -62,6 +69,30 @@ global class JWTSettingStatusResult implements copado.CopadoServiceResult {
     global Boolean status;
     global List<Id> userIds;
     global JWTSettingStatusResult() {
+
+    }
+}
+global class Queue implements copado.CopadoService {
+    global Queue() {
+
+    }
+    global List<copado.Feature.QueueResult> currentState() {
+        return null;
+    }
+}
+global class QueueResult implements copado.CopadoServiceResult {
+    global String assigneeLink;
+    global String assigneeName;
+    global String contextLink;
+    global String jobLink;
+    global String jobName;
+    global copado__JobStep__c jobStep;
+    global Integer numberOfTasks;
+    global String resourceName;
+    global String stepLink;
+    global String stepName;
+    global String stepStatus;
+    global QueueResult() {
 
     }
 }

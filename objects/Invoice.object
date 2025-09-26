@@ -203,6 +203,18 @@
         <fullName>TotalTaxAmount</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>WriteOffStatus</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>WriteOffTotalChargeAmount</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>WriteOffTotalTaxAmount</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
     <listViews>
         <fullName>mine</fullName>
         <columns>Name</columns>

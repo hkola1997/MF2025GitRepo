@@ -17,7 +17,7 @@
         <name>copado__Bundled_Stories</name>
     </fieldSets>
     <fieldSets>
-        <label><!-- CBM Fields --></label>
+        <label><!-- Pipeline Manager User Story Fields --></label>
         <name>copado__CBM_Fields</name>
     </fieldSets>
     <fieldSets>
@@ -75,6 +75,11 @@
     <fields>
         <label><!-- Jira Key --></label>
         <name>Jira_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- Functional Review --></label>
+        <name>copadoQuality__Functional_Review__c</name>
+        <relationshipLabel><!-- User Stories --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Acceptance Criteria Status --></label>
@@ -772,6 +777,10 @@
             <masterLabel>Rejected</masterLabel>
             <translation>却下</translation>
         </picklistValues>
+        <picklistValues>
+            <masterLabel>State</masterLabel>
+            <translation><!-- State --></translation>
+        </picklistValues>
     </fields>
     <fields>
         <help>チェックされた場合、ユーザーストーリーはコパードの「サジェスション・気付き」にインデックスされません。</help>
@@ -857,16 +866,16 @@
         <name>copado__userStory_reason__c</name>
     </fields>
     <fields>
-        <label><!-- Connect log --></label>
-        <name>copadoconnect__Connect_log__c</name>
+        <label><!-- Enable Logs --></label>
+        <name>copadoccmint__Enable_Logs__c</name>
     </fields>
     <fields>
-        <label><!-- External ID --></label>
-        <name>copadoconnect__External_ID__c</name>
+        <label><!-- External Id --></label>
+        <name>copadoccmint__External_Id__c</name>
     </fields>
     <fields>
-        <label><!-- Last Synced Date --></label>
-        <name>copadoconnect__Last_Synced_Date__c</name>
+        <label><!-- JIRA key --></label>
+        <name>copadoccmint__JIRA_key__c</name>
     </fields>
     <nameFieldLabel>ユーザーストーリーリファレンス</nameFieldLabel>
     <recordTypes>

@@ -53,6 +53,1250 @@
         <name>Agentforce_Welcome_Title</name>
     </customLabels>
     <customLabels>
+        <label><!-- A functional review Session has been assigned to you! --></label>
+        <name>copadoQuality__A_Review_Session_Is_Assigned</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AcceptanceCriteriaBannerMessageOnEdit --></label>
+        <name>copadoQuality__AcceptanceCriteriaBannerMessageOnEdit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AcceptanceCriteriaHeaderTitle --></label>
+        <name>copadoQuality__AcceptanceCriteriaHeaderTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AcceptanceCriteriaMessageTooLong --></label>
+        <name>copadoQuality__AcceptanceCriteriaMessageTooLong</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AccesTokenPlaceHolder --></label>
+        <name>copadoQuality__AccesTokenPlaceHolder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AccessToken --></label>
+        <name>copadoQuality__AccessToken</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Action --></label>
+        <name>copadoQuality__Action</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ActivateLegacyError --></label>
+        <name>copadoQuality__ActivateLegacyError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Active --></label>
+        <name>copadoQuality__Active</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AddConnection --></label>
+        <name>copadoQuality__AddConnection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AddConnectionHeader --></label>
+        <name>copadoQuality__AddConnectionHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AddCriteriaRow --></label>
+        <name>copadoQuality__AddCriteriaRow</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Add Execution Parameter --></label>
+        <name>copadoQuality__AddExecutionParameters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AddMetric --></label>
+        <name>copadoQuality__AddMetric</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Add Variable --></label>
+        <name>copadoQuality__AddVariables</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AdditionalInformation --></label>
+        <name>copadoQuality__AdditionalInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AuthenticationError --></label>
+        <name>copadoQuality__AuthenticationError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- BasicInformation --></label>
+        <name>copadoQuality__BasicInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CCHError --></label>
+        <name>copadoQuality__CCHError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CCHMetadataSelectionHelptext --></label>
+        <name>copadoQuality__CCHMetadataSelectionHelptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CCH_ConditionHelpText --></label>
+        <name>copadoQuality__CCH_ConditionHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CHECK FOR VIOLATIONS TITLE --></label>
+        <name>copadoQuality__CHECK_FOR_VIOLATIONS_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CLOSE --></label>
+        <name>copadoQuality__CLOSE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- COPADO EXPLORER FEATURE --></label>
+        <name>copadoQuality__COPADO_EXPLORER_FEATURE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- COPADO EXPLORER LICENSE --></label>
+        <name>copadoQuality__COPADO_EXPLORER_LICENSE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CORE LICENSE ERROR --></label>
+        <name>copadoQuality__CORE_LICENSE_ERROR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRT --></label>
+        <name>copadoQuality__CRT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRTLogError --></label>
+        <name>copadoQuality__CRTLogError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRT_EXECUTION_FAILED --></label>
+        <name>copadoQuality__CRT_EXECUTION_FAILED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRT INVITATION ERROR --></label>
+        <name>copadoQuality__CRT_INVITATION_ERROR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRT_Organization --></label>
+        <name>copadoQuality__CRT_Organization</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRT POST VARIABLE ERROR --></label>
+        <name>copadoQuality__CRT_POST_VARIABLE_ERROR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CRT_Project --></label>
+        <name>copadoQuality__CRT_Project</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CalloutEnabledAllError --></label>
+        <name>copadoQuality__CalloutEnabledAllError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CalloutEnabledError --></label>
+        <name>copadoQuality__CalloutEnabledError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>copadoQuality__Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel Job --></label>
+        <name>copadoQuality__Cancel_Job</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Category --></label>
+        <name>copadoQuality__Category</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CheckSpellings --></label>
+        <name>copadoQuality__CheckSpellings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ClearAllFilters --></label>
+        <name>copadoQuality__ClearAllFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Complete this field --></label>
+        <name>copadoQuality__CompleteThisField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ComplianceRules --></label>
+        <name>copadoQuality__ComplianceRules</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ComplianceRulesViolations --></label>
+        <name>copadoQuality__ComplianceRulesViolations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CCH Scope and Criteria --></label>
+        <name>copadoQuality__ComplianceScope</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Configuration --></label>
+        <name>copadoQuality__Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Confirm --></label>
+        <name>copadoQuality__Confirm</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConfirmAcceptanceCriteriaSave --></label>
+        <name>copadoQuality__ConfirmAcceptanceCriteriaSave</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConfirmCalloutOptionText --></label>
+        <name>copadoQuality__ConfirmCalloutOptionText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConnectionDetailsAdded --></label>
+        <name>copadoQuality__ConnectionDetailsAdded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConnectionName --></label>
+        <name>copadoQuality__ConnectionName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConnectionSetup --></label>
+        <name>copadoQuality__ConnectionSetup</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConnectionSubTitle --></label>
+        <name>copadoQuality__ConnectionSubTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConnectionTestSuccess --></label>
+        <name>copadoQuality__ConnectionTestSuccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConnectionTitle --></label>
+        <name>copadoQuality__ConnectionTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CopadoRoboticSetup --></label>
+        <name>copadoQuality__CopadoRoboticSetup</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Copado Explorer --></label>
+        <name>copadoQuality__Copado_Explorer</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create --></label>
+        <name>copadoQuality__Create</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CreateRules --></label>
+        <name>copadoQuality__CreateRules</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CreatingRulesMessage --></label>
+        <name>copadoQuality__CreatingRulesMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Credential Status Info --></label>
+        <name>copadoQuality__Credential_Status_Info</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CrtActivationBody --></label>
+        <name>copadoQuality__CrtActivationBody</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CrtActivationHeader --></label>
+        <name>copadoQuality__CrtActivationHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CrtRegion --></label>
+        <name>copadoQuality__CrtRegion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CrtTestDefinitionHelp --></label>
+        <name>copadoQuality__CrtTestDefinitionHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CrtValidationButton --></label>
+        <name>copadoQuality__CrtValidationButton</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CustomSettingsVisibilityHelptext --></label>
+        <name>copadoQuality__CustomSettingsVisibilityHelptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Custom logic --></label>
+        <name>copadoQuality__Customlogic</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DML Access Error --></label>
+        <name>copadoQuality__DML_Access_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DML Generic Error --></label>
+        <name>copadoQuality__DML_Generic_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete --></label>
+        <name>copadoQuality__Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Confirmation --></label>
+        <name>copadoQuality__Delete_Confirmation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR DESCRIPTION --></label>
+        <name>copadoQuality__ERROR_DESCRIPTION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit --></label>
+        <name>copadoQuality__Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EditRule --></label>
+        <name>copadoQuality__EditRule</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EmptyAcceptanceCriteriaBody --></label>
+        <name>copadoQuality__EmptyAcceptanceCriteriaBody</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EmptyAcceptanceCriteriaTitle --></label>
+        <name>copadoQuality__EmptyAcceptanceCriteriaTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EmptyError --></label>
+        <name>copadoQuality__EmptyError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EmptyVariablesHelp --></label>
+        <name>copadoQuality__EmptyVariablesHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EmptyVariablesTitle --></label>
+        <name>copadoQuality__EmptyVariablesTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EnableCalloutCheckbox --></label>
+        <name>copadoQuality__EnableCalloutCheckbox</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EnterCustomlogic --></label>
+        <name>copadoQuality__EnterCustomlogic</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EnterDetailsToSetConnection --></label>
+        <name>copadoQuality__EnterDetailsToSetConnection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error --></label>
+        <name>copadoQuality__Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorAcceptanceCriteriaAllMetrics --></label>
+        <name>copadoQuality__ErrorAcceptanceCriteriaAllMetrics</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorAcceptanceCriteriaDuplicatedMetrics --></label>
+        <name>copadoQuality__ErrorAcceptanceCriteriaDuplicatedMetrics</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorEmptyConnectionDetails --></label>
+        <name>copadoQuality__ErrorEmptyConnectionDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorEnqueueingTest --></label>
+        <name>copadoQuality__ErrorEnqueueingTest</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error fetching default mapping : --></label>
+        <name>copadoQuality__ErrorFetchingDefaultMapping</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Finding Url --></label>
+        <name>copadoQuality__ErrorFindingUrl</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorGitStorage --></label>
+        <name>copadoQuality__ErrorGitStorage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorInvalidNamedCredentials --></label>
+        <name>copadoQuality__ErrorInvalidNamedCredentials</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorMessage --></label>
+        <name>copadoQuality__ErrorMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorNoAcceptanceCriteriaFound --></label>
+        <name>copadoQuality__ErrorNoAcceptanceCriteriaFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorNoRulesetAndAcceptanceCriteriaFound --></label>
+        <name>copadoQuality__ErrorNoRulesetAndAcceptanceCriteriaFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorNoRulesetFileFound --></label>
+        <name>copadoQuality__ErrorNoRulesetFileFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorOnConnectingExtension --></label>
+        <name>copadoQuality__ErrorOnConnectingExtension</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorPollingTests --></label>
+        <name>copadoQuality__ErrorPollingTests</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorRetrievingOrganizations --></label>
+        <name>copadoQuality__ErrorRetrievingOrganizations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorRetrievingProjects --></label>
+        <name>copadoQuality__ErrorRetrievingProjects</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ErrorRetrievingJobs --></label>
+        <name>copadoQuality__ErrorRetrievingSuites</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error deleting record --></label>
+        <name>copadoQuality__Error_Deleting_Record</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error inserting review --></label>
+        <name>copadoQuality__Error_Inserting_Review</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error inserting session --></label>
+        <name>copadoQuality__Error_Inserting_Session</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error updating Scheduled Job! --></label>
+        <name>copadoQuality__Error_Updating_Scheduled_Job</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error updating session --></label>
+        <name>copadoQuality__Error_Updating_Session</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error removing assignments --></label>
+        <name>copadoQuality__Error_while_removing_review_assignment</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExecuteTestsAction --></label>
+        <name>copadoQuality__ExecuteTestsAction</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExecuteTestsAsAutomationAction --></label>
+        <name>copadoQuality__ExecuteTestsAsAutomationAction</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Execution Parameters --></label>
+        <name>copadoQuality__ExecutionParameters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExistingConnection --></label>
+        <name>copadoQuality__ExistingConnection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Exploration --></label>
+        <name>copadoQuality__Exploration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Extension Successfully Activated --></label>
+        <name>copadoQuality__ExtensionSuccessfullyActivated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Extension Configuration --></label>
+        <name>copadoQuality__Extension_Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExternalOrganizationHelpText --></label>
+        <name>copadoQuality__ExternalOrganizationHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExternalProjectID --></label>
+        <name>copadoQuality__ExternalProjectID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExternalProjectIdHelpTxt --></label>
+        <name>copadoQuality__ExternalProjectIdHelpTxt</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExternalJobID --></label>
+        <name>copadoQuality__ExternalSuiteID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExternalJobIdHelpTxt --></label>
+        <name>copadoQuality__ExternalSuiteIdHelpTxt</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- External Permission Set Error --></label>
+        <name>copadoQuality__External_Permission_Set_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Fetch Columns Config Error --></label>
+        <name>copadoQuality__Fetch_Columns_Config_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Fetch Data Error --></label>
+        <name>copadoQuality__Fetch_Data_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Field --></label>
+        <name>copadoQuality__Field</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FileChangedMessage --></label>
+        <name>copadoQuality__FileChangedMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FileNameHelptext --></label>
+        <name>copadoQuality__FileNameHelptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FilePath --></label>
+        <name>copadoQuality__FilePath</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CreateRules --></label>
+        <name>copadoQuality__FileUploadSuccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FileUploaded --></label>
+        <name>copadoQuality__FileUploaded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FillRequiredFields --></label>
+        <name>copadoQuality__FillRequiredFields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Filter --></label>
+        <name>copadoQuality__Filter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FinishSetup --></label>
+        <name>copadoQuality__FinishSetup</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Function Review Session Assignments --></label>
+        <name>copadoQuality__Function_Review_Session_Assignments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GenerateDefaultRuleset --></label>
+        <name>copadoQuality__GenerateDefaultRuleset</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GenerateDefaultRulesetHelpMessage --></label>
+        <name>copadoQuality__GenerateDefaultRulesetHelpMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GoToAllNamedCredentialText --></label>
+        <name>copadoQuality__GoToAllNamedCredentialText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GoToNamedCredential --></label>
+        <name>copadoQuality__GoToNamedCredential</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GoToNamedCredentialText --></label>
+        <name>copadoQuality__GoToNamedCredentialText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ImportRuleset --></label>
+        <name>copadoQuality__ImportRuleset</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- InputText --></label>
+        <name>copadoQuality__InputText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- InvalidRequest --></label>
+        <name>copadoQuality__InvalidRequest</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid Relationship Error --></label>
+        <name>copadoQuality__Invalid_Relationship_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Items --></label>
+        <name>copadoQuality__Items</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Job State --></label>
+        <name>copadoQuality__JOB_STATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- JOB UNSCHEDULED SUCCESSFULLY --></label>
+        <name>copadoQuality__JOB_UNSCHEDULED_SUCCESSFULLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- JobCreated --></label>
+        <name>copadoQuality__JobCreated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- JobExecution --></label>
+        <name>copadoQuality__JobExecution</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Last Run Status --></label>
+        <name>copadoQuality__LAST_RUN_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LICENSE ERROR QUALITY --></label>
+        <name>copadoQuality__LICENSE_ERROR_QUALITY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Language --></label>
+        <name>copadoQuality__Language</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LegacyCredentialError --></label>
+        <name>copadoQuality__LegacyCredentialError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LegacyCredentialFunctionalReviewError --></label>
+        <name>copadoQuality__LegacyCredentialFunctionalReviewError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LegacyCredentialTestError --></label>
+        <name>copadoQuality__LegacyCredentialTestError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LinkProject --></label>
+        <name>copadoQuality__LinkProject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LinkProjectMessage --></label>
+        <name>copadoQuality__LinkProjectMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- List all jobs --></label>
+        <name>copadoQuality__List_All_Jobs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading --></label>
+        <name>copadoQuality__Loading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ManageUserStories --></label>
+        <name>copadoQuality__Manage_Review_Session_Assignments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MandatoryCriteria --></label>
+        <name>copadoQuality__MandatoryCriteria</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Message --></label>
+        <name>copadoQuality__Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MetadataType --></label>
+        <name>copadoQuality__MetadataType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Metric --></label>
+        <name>copadoQuality__Metric</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MigrateExisting --></label>
+        <name>copadoQuality__MigrateExisting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MissingFilterConditions --></label>
+        <name>copadoQuality__MissingFilterConditions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MissingOperator --></label>
+        <name>copadoQuality__MissingOperator</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next Run Time --></label>
+        <name>copadoQuality__NEXT_RUN_TIME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NO JOB FOUND --></label>
+        <name>copadoQuality__NO_JOB_FOUND</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No scheduled jobs returned! --></label>
+        <name>copadoQuality__NO_JOB_RETURNED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please set a name --></label>
+        <name>copadoQuality__NameParameterHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please set a name --></label>
+        <name>copadoQuality__NameVariableHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NamedCredential --></label>
+        <name>copadoQuality__NamedCredential</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NamedCredentialValidation --></label>
+        <name>copadoQuality__NamedCredentialValidation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NewRule --></label>
+        <name>copadoQuality__NewRule</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Review Session --></label>
+        <name>copadoQuality__New_Review_Session</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Review Session Info --></label>
+        <name>copadoQuality__New_Review_Session_Info</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next --></label>
+        <name>copadoQuality__Next</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoAccessToProject --></label>
+        <name>copadoQuality__NoAccessToProject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoComplianceRuleToDisplay --></label>
+        <name>copadoQuality__NoComplianceRuleToDisplay</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoConnectionFound --></label>
+        <name>copadoQuality__NoConnectionFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoDataToDisplay --></label>
+        <name>copadoQuality__NoDataToDisplay</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoNamedCredential --></label>
+        <name>copadoQuality__NoNamedCredential</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoNamedCredentials --></label>
+        <name>copadoQuality__NoNamedCredentials</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Options found --></label>
+        <name>copadoQuality__NoOptionsFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoOrgError --></label>
+        <name>copadoQuality__NoOrgError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoProjects --></label>
+        <name>copadoQuality__NoProjects</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoProjectsFound --></label>
+        <name>copadoQuality__NoProjectsFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoRuleToDisplay --></label>
+        <name>copadoQuality__NoRuleToDisplay</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoTestJob --></label>
+        <name>copadoQuality__NoTestSuite</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoViolationsInLatestRun --></label>
+        <name>copadoQuality__NoViolationsInLatestRun</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No_Environment_For_Review --></label>
+        <name>copadoQuality__No_Environment_For_Review</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Permission to create Sessions --></label>
+        <name>copadoQuality__No_Permission_To_Create</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Permission to delete Sessions --></label>
+        <name>copadoQuality__No_Permission_To_Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- None Selected --></label>
+        <name>copadoQuality__None_Selected</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Run specific test robot file (- - job/-j) --></label>
+        <name>copadoQuality__NotAssignedUser</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NotFoundAction --></label>
+        <name>copadoQuality__NotFoundAction</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OpenQEditor --></label>
+        <name>copadoQuality__OpenQEditor</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Operator --></label>
+        <name>copadoQuality__Operator</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Organization --></label>
+        <name>copadoQuality__Organization</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OrganizationHelpText --></label>
+        <name>copadoQuality__OrganizationHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Outcome --></label>
+        <name>copadoQuality__Outcome</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PMDCriteriaResultErrorMessage --></label>
+        <name>copadoQuality__PMDCriteriaResultErrorMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PMDResultUpdateErrorMessage --></label>
+        <name>copadoQuality__PMDResultUpdateErrorMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Parallel Test Execution Limit --></label>
+        <name>copadoQuality__Parallel_Test_Execution_Limit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Argument file(s) (- - argument-file / -A) --></label>
+        <name>copadoQuality__ParameterArgumentFile</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Exclude test with tag (- - exclude / -e) --></label>
+        <name>copadoQuality__ParameterExcludeTag</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Include test with tag (- - include / -i) --></label>
+        <name>copadoQuality__ParameterIncludeTag</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Run specific test robot file (- - job/-j) --></label>
+        <name>copadoQuality__ParameterSuiteByFilename</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Run test(s) by name (- - test / -t) --></label>
+        <name>copadoQuality__ParameterTestByName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PmdRuleHelp --></label>
+        <name>copadoQuality__PmdRuleHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PmdViolations --></label>
+        <name>copadoQuality__PmdViolations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PollingTimeoutReached --></label>
+        <name>copadoQuality__PollingTimeoutReached</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PreviewNotAvailable --></label>
+        <name>copadoQuality__PreviewNotAvailable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Priority --></label>
+        <name>copadoQuality__Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Project --></label>
+        <name>copadoQuality__Project</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ProjectHelpText --></label>
+        <name>copadoQuality__ProjectHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PushChangesToRuleset --></label>
+        <name>copadoQuality__PushChangesToRuleset</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PushChangesToRuleset --></label>
+        <name>copadoQuality__PushChangesToRulesetHelpMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QT LICENSE LIMIT --></label>
+        <name>copadoQuality__QT_LICENSE_LIMIT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QUALITY LICENSE ERROR --></label>
+        <name>copadoQuality__QUALITY_LICENSE_ERROR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QuickFilters --></label>
+        <name>copadoQuality__QuickFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Regression Jobs --></label>
+        <name>copadoQuality__REGRESSION_JOBS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Regression Job Name --></label>
+        <name>copadoQuality__REGRESSION_JOB_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RUN COUNT --></label>
+        <name>copadoQuality__RUN_COUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test record successfully updated --></label>
+        <name>copadoQuality__RecordSavedSuccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record deleted successfully --></label>
+        <name>copadoQuality__Record_Deleted_Successfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Records_Updated_Successfully --></label>
+        <name>copadoQuality__Records_Updated_Successfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Refresh --></label>
+        <name>copadoQuality__Refresh</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Remove Review Session Assignments --></label>
+        <name>copadoQuality__Remove_Review_Session_Assignments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Remove Review Session Confirmation --></label>
+        <name>copadoQuality__Remove_Review_Session_Assignments_Confirmation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RemovedHelptext --></label>
+        <name>copadoQuality__RemovedHelptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Required --></label>
+        <name>copadoQuality__Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Result Report --></label>
+        <name>copadoQuality__ResultReport</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- User stories added successfully --></label>
+        <name>copadoQuality__Review_Session_Assignments_added_successfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RiskDetails --></label>
+        <name>copadoQuality__RiskDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RuleConfiguration --></label>
+        <name>copadoQuality__RuleConfiguration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RuleCreatedSuccessfully --></label>
+        <name>copadoQuality__RuleCreatedSuccessfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RuleId --></label>
+        <name>copadoQuality__RuleId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CCHRuleInformation --></label>
+        <name>copadoQuality__RuleInformation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RuleLanguages --></label>
+        <name>copadoQuality__RuleLanguages</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Rule Name --></label>
+        <name>copadoQuality__RuleName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RuleUpdatedSuccessfully --></label>
+        <name>copadoQuality__RuleUpdatedSuccessfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RulesetUploadMessage --></label>
+        <name>copadoQuality__RulesetUploadMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Run On --></label>
+        <name>copadoQuality__RunOn</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RunOnFieldValidation --></label>
+        <name>copadoQuality__RunOnFieldValidation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SCAN FOR NEW VIOLATIONS --></label>
+        <name>copadoQuality__SCAN_FOR_NEW_VIOLATIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SCAN FOR NEW VIOLATIONS HELP TEXT --></label>
+        <name>copadoQuality__SCAN_FOR_NEW_VIOLATIONS_HELP_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Scheduled job is created --></label>
+        <name>copadoQuality__SCHEDULE_JOB_CREATED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Schedule New Job --></label>
+        <name>copadoQuality__SCHEDULE_NEW_REGRESSION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Set Schedule Date &amp; Frequency --></label>
+        <name>copadoQuality__SET_SCHEDULE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Are you sure you want to cancel --></label>
+        <name>copadoQuality__SURE_YOU_WANT_TO_CANCEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SAVE --></label>
+        <name>copadoQuality__Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ScanForNewViolationsHelpTextCch --></label>
+        <name>copadoQuality__ScanForNewViolationsHelpTextCch</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Scheduled Test Job Name --></label>
+        <name>copadoQuality__Scheduled_Test_Job_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Scheduled Test Jobs --></label>
+        <name>copadoQuality__Scheduled_Test_Jobs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Search --></label>
+        <name>copadoQuality__Search</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SelectAnOption --></label>
+        <name>copadoQuality__SelectAnOption</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SelectCategory --></label>
+        <name>copadoQuality__SelectCategory</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select Field --></label>
+        <name>copadoQuality__SelectField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SelectMetadataType --></label>
+        <name>copadoQuality__SelectMetadataType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select Operator --></label>
+        <name>copadoQuality__SelectOperator</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SelectProject --></label>
+        <name>copadoQuality__SelectProject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SelectedTestCases --></label>
+        <name>copadoQuality__SelectedTestCases</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Session Assignments removed successfully --></label>
+        <name>copadoQuality__Session_Assignments_removed_successfully</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Severity --></label>
+        <name>copadoQuality__Severity</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShowExistingConnections --></label>
+        <name>copadoQuality__ShowExistingConnections</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShowingSearchResults --></label>
+        <name>copadoQuality__ShowingSearchResults</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Start Review --></label>
+        <name>copadoQuality__StartReview</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Static Code Analysis Rules --></label>
+        <name>copadoQuality__StaticCodeAnalysisRules</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SyncRules --></label>
+        <name>copadoQuality__SyncRules</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SyncRulesInProgress --></label>
+        <name>copadoQuality__SyncRulesFailed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SyncRulesInProgress --></label>
+        <name>copadoQuality__SyncRulesInProgress</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SyntaxError --></label>
+        <name>copadoQuality__SyntaxError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SyntaxErrorExtraParameter --></label>
+        <name>copadoQuality__SyntaxErrorExtraParameter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SyntaxErrorMissing --></label>
+        <name>copadoQuality__SyntaxErrorMissing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test --></label>
+        <name>copadoQuality__Test</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestAutomationResult --></label>
+        <name>copadoQuality__TestAutomationResult</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestCaseNotFound --></label>
+        <name>copadoQuality__TestCaseNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestCaseSelectorHelpText --></label>
+        <name>copadoQuality__TestCaseSelectorHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestConnection --></label>
+        <name>copadoQuality__TestConnection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestFieldValidation --></label>
+        <name>copadoQuality__TestFieldValidation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestJobExecutionResults --></label>
+        <name>copadoQuality__TestJobExecutionResults</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestRunAbortedMessage --></label>
+        <name>copadoQuality__TestRunAbortedMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestScript --></label>
+        <name>copadoQuality__TestScript</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestJob --></label>
+        <name>copadoQuality__TestSuite</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestJobHelpText --></label>
+        <name>copadoQuality__TestSuiteHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Only active test records are selectable for scheduling operation --></label>
+        <name>copadoQuality__Test_Selection_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- There is a session to review --></label>
+        <name>copadoQuality__There_is_a_session_to_review</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- UndefinedFilter --></label>
+        <name>copadoQuality__UndefinedFilter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Unified Test Name Prefix --></label>
+        <name>copadoQuality__Unified_Test_Name_Prefix</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- UploadValidRulesetFile --></label>
+        <name>copadoQuality__UploadValidRulesetFile</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- UseParantheses --></label>
+        <name>copadoQuality__UseParantheses</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- UserNameLabel --></label>
+        <name>copadoQuality__UserNameLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VIOLATION FREQUENCY --></label>
+        <name>copadoQuality__VIOLATION_FREQUENCY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ValidatingRuleset --></label>
+        <name>copadoQuality__ValidatingRuleset</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value --></label>
+        <name>copadoQuality__Value</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please set a value --></label>
+        <name>copadoQuality__ValueParameterHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please set a value --></label>
+        <name>copadoQuality__ValueVariableHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Variables and Execution Parameters --></label>
+        <name>copadoQuality__VariableAndExecutionParameters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Variables --></label>
+        <name>copadoQuality__Variables</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VideoCanBeFound --></label>
+        <name>copadoQuality__VideoCanBeFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- WARNING --></label>
+        <name>copadoQuality__WARNING</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- WRONG_CREDENTIALS --></label>
+        <name>copadoQuality__WRONG_CREDENTIALS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- WelcomePageSubTitle --></label>
+        <name>copadoQuality__WelcomePageSubTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- WelcomePageTitle --></label>
+        <name>copadoQuality__WelcomePageTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- XpathErrorMessage --></label>
+        <name>copadoQuality__XpathErrorMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- You can&apos;t remove a completed session assignment --></label>
+        <name>copadoQuality__You_cant_remove_completed_assignment</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_field_not_insertable --></label>
+        <name>copadoQuality__fflib_security_error_field_not_insertable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_field_not_readable --></label>
+        <name>copadoQuality__fflib_security_error_field_not_readable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_field_not_updateable --></label>
+        <name>copadoQuality__fflib_security_error_field_not_updateable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_deletable --></label>
+        <name>copadoQuality__fflib_security_error_object_not_deletable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_insertable --></label>
+        <name>copadoQuality__fflib_security_error_object_not_insertable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_readable --></label>
+        <name>copadoQuality__fflib_security_error_object_not_readable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- fflib_security_error_object_not_updateable --></label>
+        <name>copadoQuality__fflib_security_error_object_not_updateable</name>
+    </customLabels>
+    <customLabels>
         <label><!-- ACADEMY --></label>
         <name>copado__ACADEMY</name>
     </customLabels>
@@ -333,6 +1577,10 @@
         <name>copado__ASSIGN_LICENSES_TO_YOUR_USER</name>
     </customLabels>
     <customLabels>
+        <label><!-- AT --></label>
+        <name>copado__AT</name>
+    </customLabels>
+    <customLabels>
         <label><!-- ATTENTION REQUIRED --></label>
         <name>copado__ATTENTION_REQUIRED</name>
     </customLabels>
@@ -505,8 +1753,24 @@
         <name>copado__ActivationMessage</name>
     </customLabels>
     <customLabels>
+        <label><!-- Active --></label>
+        <name>copado__Active</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Active automation rules cannot be deleted. --></label>
         <name>copado__ActiveAutomatioRuleCannotBeDeleted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Active Job Queues Helptext --></label>
+        <name>copado__ActiveJobQueuesHelptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Active Job Queues Title --></label>
+        <name>copado__ActiveJobQueuesTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Active Task --></label>
+        <name>copado__ActiveTask</name>
     </customLabels>
     <customLabels>
         <label><!-- Active Scratch Orgs --></label>
@@ -617,6 +1881,10 @@
         <name>copado__Add_User_Button</name>
     </customLabels>
     <customLabels>
+        <label><!-- Add_User_Stories_Different_Pipelines_Validation --></label>
+        <name>copado__Add_User_Stories_Different_Pipelines_Validation</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Add User Stories Different Releases Validation Error --></label>
         <name>copado__Add_User_Stories_Different_Releases_Validation</name>
     </customLabels>
@@ -639,6 +1907,10 @@
     <customLabels>
         <label><!-- Add Users to Persona Title --></label>
         <name>copado__Add_Users_to_Persona_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Add at least one filter --></label>
+        <name>copado__Add_at_least_one_filter</name>
     </customLabels>
     <customLabels>
         <label><!-- Add new parameter --></label>
@@ -841,6 +2113,10 @@
         <name>copado__Artifacts_Lookup_New_Window</name>
     </customLabels>
     <customLabels>
+        <label><!-- Assess My Org page --></label>
+        <name>copado__Assess_My_Org</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Assign --></label>
         <name>copado__Assign</name>
     </customLabels>
@@ -857,6 +2133,10 @@
         <name>copado__Assign_New_Licenses</name>
     </customLabels>
     <customLabels>
+        <label><!-- Assigned Copado Licenses --></label>
+        <name>copado__AssignedCopadoLicenses</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Assignee --></label>
         <name>copado__Assignee</name>
     </customLabels>
@@ -867,6 +2147,10 @@
     <customLabels>
         <label><!-- AtLeastOneUS --></label>
         <name>copado__AtLeastOneUS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- At least one environment --></label>
+        <name>copado__At_least_one_environment</name>
     </customLabels>
     <customLabels>
         <label><!-- Attach Deployment File --></label>
@@ -953,8 +2237,508 @@
         <name>copado__Automation_Connector_Promotion</name>
     </customLabels>
     <customLabels>
+        <label><!-- Automation Execution Immediate --></label>
+        <name>copado__Automation_Execution_Immediate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Execution Immediately --></label>
+        <name>copado__Automation_Execution_Immediately</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Execution Scheduled --></label>
+        <name>copado__Automation_Execution_Scheduled</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Action Callback Checkbox Label --></label>
+        <name>copado__Automation_Rule_Action_Callback_Checkbox_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Action Callback Helptext --></label>
+        <name>copado__Automation_Rule_Action_Callback_Helptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Action Callback Input Label --></label>
+        <name>copado__Automation_Rule_Action_Callback_Input_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Action Callback Input Placeholder --></label>
+        <name>copado__Automation_Rule_Action_Callback_Input_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Action Placeholder --></label>
+        <name>copado__Automation_Rule_Action_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Action To Execute Label --></label>
+        <name>copado__Automation_Rule_Action_To_Execute_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Activate Error Message Title --></label>
+        <name>copado__Automation_Rule_Activate_Error_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Activate Header Title --></label>
+        <name>copado__Automation_Rule_Activate_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Activate Message Description --></label>
+        <name>copado__Automation_Rule_Activate_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Activate Message Title --></label>
+        <name>copado__Automation_Rule_Activate_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Activated --></label>
+        <name>copado__Automation_Rule_Activated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Activation Message --></label>
+        <name>copado__Automation_Rule_Activation_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Configuration Empty Message --></label>
+        <name>copado__Automation_Rule_Advanced_Configuration_Empty_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Criteria Not Supported Info Message --></label>
+        <name>copado__Automation_Rule_Advanced_Criteria_Not_Supported_Info_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Define Automated Action --></label>
+        <name>copado__Automation_Rule_Advanced_Define_Automated_Action</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Following Action Message --></label>
+        <name>copado__Automation_Rule_Advanced_Following_Action_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Is --></label>
+        <name>copado__Automation_Rule_Advanced_Is</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Option Message --></label>
+        <name>copado__Automation_Rule_Advanced_Option_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Stages Environments Message --></label>
+        <name>copado__Automation_Rule_Advanced_Stages_Environments_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Type Description --></label>
+        <name>copado__Automation_Rule_Advanced_Type_Name_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced Type Name Prefix --></label>
+        <name>copado__Automation_Rule_Advanced_Type_Name_Prefix</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced When a --></label>
+        <name>copado__Automation_Rule_Advanced_When_A</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Advanced criteria --></label>
+        <name>copado__Automation_Rule_Advanced_criteria</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Alert --></label>
+        <name>copado__Automation_Rule_Alert</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Automated deployments to Production --></label>
+        <name>copado__Automation_Rule_Automated_deployments_to_Production</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Automation Connector Label --></label>
+        <name>copado__Automation_Rule_Automation_Connector_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Automation Name Label --></label>
+        <name>copado__Automation_Rule_Automation_Name_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back Promotion Connector --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Connector</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back Promotion Copado Documentation Link --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Copado_Documentation_Link</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back- Promotion Enviornment Selection --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Enviornment_Selection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back Promotion Maximum Environents Limit Error --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Maximum_Environments_Limit_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back Promotion Stages Environments Message --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Stages_Environments_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back Promotion Type Description --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Type_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back Promotion Type Name Prefix --></label>
+        <name>copado__Automation_Rule_Back_Promotion_Type_Name_Prefix</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Back-promoting --></label>
+        <name>copado__Automation_Rule_Back_promoting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Coado Documentation Link --></label>
+        <name>copado__Automation_Rule_Copado_Documentation_Link</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Copado Helper Footer --></label>
+        <name>copado__Automation_Rule_Copado_Helper_Footer</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Copado Helper Header --></label>
+        <name>copado__Automation_Rule_Copado_Helper_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Creation Error --></label>
+        <name>copado__Automation_Rule_Creation_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Custom Action Label --></label>
+        <name>copado__Automation_Rule_Custom_Action_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Custom Action Placeholder --></label>
+        <name>copado__Automation_Rule_Custom_Action_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivate Error Message Title --></label>
+        <name>copado__Automation_Rule_Deactivate_Error_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivate Header Title --></label>
+        <name>copado__Automation_Rule_Deactivate_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivate Message Description --></label>
+        <name>copado__Automation_Rule_Deactivate_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivate Message Title --></label>
+        <name>copado__Automation_Rule_Deactivate_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivate Scheduled Description --></label>
+        <name>copado__Automation_Rule_Deactivate_Scheduled_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivate Scheduled Title --></label>
+        <name>copado__Automation_Rule_Deactivate_Scheduled_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Deactivated --></label>
+        <name>copado__Automation_Rule_Deactivated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Define Custom Action Criteria Error --></label>
+        <name>copado__Automation_Rule_Define_Custom_Action_Criteria_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Delete Messsage Description --></label>
+        <name>copado__Automation_Rule_Delete_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Delete Question --></label>
+        <name>copado__Automation_Rule_Delete_Question</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Delete Title --></label>
+        <name>copado__Automation_Rule_Delete_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Rule Delete Warning Messsage --></label>
+        <name>copado__Automation_Rule_Delete_Warning_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules Description Field Label --></label>
+        <name>copado__Automation_Rule_Description_Field_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Description Placeholder --></label>
+        <name>copado__Automation_Rule_Description_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Duplicate Rule Error --></label>
+        <name>copado__Automation_Rule_Duplicate_Rule_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Duplicated Error --></label>
+        <name>copado__Automation_Rule_Duplicated_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Dynamic Status --></label>
+        <name>copado__Automation_Rule_Dynamic_Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Container Layout Type Simple --></label>
+        <name>copado__Automation_Rule_Edit_Container_Layout_Type_Simple</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Header Description --></label>
+        <name>copado__Automation_Rule_Edit_Header_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Gate Rule Edit Header Title --></label>
+        <name>copado__Automation_Rule_Edit_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Messsage Description --></label>
+        <name>copado__Automation_Rule_Edit_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Message Title --></label>
+        <name>copado__Automation_Rule_Edit_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Advanced Configuration Generic Error --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Advanced_Configuration_Generic_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Define Custom Criteria Error Message --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Define_Custom_Criteria_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Mandatory Fields Description --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Mandatory_Fields_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Mandatory Fields Error Message --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Mandatory_Fields_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation No Advanced Criteria Error Message --></label>
+        <name>copado__Automation_Rule_Edit_Validation_No_Advanced_Criteria_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Select Environment Error Message --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Select_Environment_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Syntax Error --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Syntax_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Unexpected Description --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Unexpected_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Edit Validation Unexpected Error Message --></label>
+        <name>copado__Automation_Rule_Edit_Validation_Unexpected_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Environment Limit Exceeded --></label>
+        <name>copado__Automation_Rule_Environment_Limit_Exceeded</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Environment Selection Error --></label>
+        <name>copado__Automation_Rule_Environment_Selection_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Execution Type Documentation Link --></label>
+        <name>copado__Automation_Rule_Execution_Type_Documentation_Link</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Execution Type Helptext --></label>
+        <name>copado__Automation_Rule_Execution_Type_Helptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Fill All Mandatory Fields --></label>
+        <name>copado__Automation_Rule_Fill_All_Mandatory_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Filter Criteria Checkbox Label --></label>
+        <name>copado__Automation_Rule_Filter_Criteria_Checkbox_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Filter Criteria Helptext --></label>
+        <name>copado__Automation_Rule_Filter_Criteria_Helptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Filter Criteria Option Description --></label>
+        <name>copado__Automation_Rule_Filter_Criteria_Option_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Go To Automation --></label>
+        <name>copado__Automation_Rule_Go_To_Automation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Header Section Configuration --></label>
+        <name>copado__Automation_Rule_Header_Section_Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Header Section Information --></label>
+        <name>copado__Automation_Rule_Header_Section_Information</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Inbound Connection Validation Error --></label>
+        <name>copado__Automation_Rule_Inbound_Connection_Validation_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Information Quality Gate --></label>
+        <name>copado__Automation_Rule_Information_Quality_Gate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Launch Wizard Heading --></label>
+        <name>copado__Automation_Rule_Launch_Wizard_Heading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Message No Permissions --></label>
+        <name>copado__Automation_Rule_Launch_Wizard_Heading_Message_No_Permissions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Main Configuration Empty Environments --></label>
+        <name>copado__Automation_Rule_Main_Configuration_Empty_Environments</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Maximum Selected Environents Limit Error --></label>
+        <name>copado__Automation_Rule_Maximum_Selected_Environments_Limit_Error</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Automation Rule Name --></label>
         <name>copado__Automation_Rule_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Name Placeholder --></label>
+        <name>copado__Automation_Rule_Name_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule No Delete Message Description --></label>
+        <name>copado__Automation_Rule_No_Delete_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Pipeline Builder Header Action --></label>
+        <name>copado__Automation_Rule_Pipeline_Builder_Header_Action</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Pipeline Field Placeholder --></label>
+        <name>copado__Automation_Rule_Pipeline_Field_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Production Environment Helptext --></label>
+        <name>copado__Automation_Rule_Production_Environment_Helptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Promotion Deployment Connector --></label>
+        <name>copado__Automation_Rule_Promotion_Deployment_Connector</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Promotion Option Message --></label>
+        <name>copado__Automation_Rule_Promotion_Option_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Promotion Stages Environments Message --></label>
+        <name>copado__Automation_Rule_Promotion_Stages_Environments_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Promotion Type Description --></label>
+        <name>copado__Automation_Rule_Promotion_Type_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Promotion Type Name Prefix --></label>
+        <name>copado__Automation_Rule_Promotion_Type_Name_Prefix</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Schedule Run Message --></label>
+        <name>copado__Automation_Rule_Schedule_Run_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Scheduled Validation Cron Error Message --></label>
+        <name>copado__Automation_Rule_Scheduled_Validation_Cron_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Scheduled Validation Error Message --></label>
+        <name>copado__Automation_Rule_Scheduled_Validation_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Select Type Title --></label>
+        <name>copado__Automation_Rule_Select_Type_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Selected Advanced Environments Message --></label>
+        <name>copado__Automation_Rule_Selected_Advanced_Environments_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Selected Back Promotion Environments Message --></label>
+        <name>copado__Automation_Rule_Selected_Back_Promotion_Environments_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Selected Promotion Environments Message --></label>
+        <name>copado__Automation_Rule_Selected_Promotion_Environments_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Source Action Option Custom --></label>
+        <name>copado__Automation_Rule_Source_Action_Option_Custom</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Source Action Option Predefined --></label>
+        <name>copado__Automation_Rule_Source_Action_Option_Predefined</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Source Action Status Successful --></label>
+        <name>copado__Automation_Rule_Source_Action_Status_Successful</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Status Placeholder --></label>
+        <name>copado__Automation_Rule_Status_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Submit Connector --></label>
+        <name>copado__Automation_Rule_Submit_Connector</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Succesfully Edited --></label>
+        <name>copado__Automation_Rule_Succesfully_Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Success Delete --></label>
+        <name>copado__Automation_Rule_Success_Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rule Time zone considerations --></label>
+        <name>copado__Automation_Rule_Time_zone_considerations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Gate Rule View Header Title --></label>
+        <name>copado__Automation_Rule_View_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules cannot be null or empty --></label>
+        <name>copado__Automation_Rules_Empty_Validation_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules Invalid Config Json --></label>
+        <name>copado__Automation_Rules_Invalid_Config_Json</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules No Permission --></label>
+        <name>copado__Automation_Rules_No_Permission</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules Source Action Option Automated --></label>
+        <name>copado__Automation_Rules_Source_Action_Option_Automated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules Source Action Option Manual --></label>
+        <name>copado__Automation_Rules_Source_Action_Option_Manual</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules Source Action Option Promotion Deployment --></label>
+        <name>copado__Automation_Rules_Source_Action_Option_Promotion_Deployment</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Automation Rules Source Action Option Submit User Story --></label>
+        <name>copado__Automation_Rules_Source_Action_Option_Submit_User_Story</name>
     </customLabels>
     <customLabels>
         <label><!-- Automation Template --></label>
@@ -1231,6 +3015,10 @@
     <customLabels>
         <label><!-- Big Metadata Warning --></label>
         <name>copado__Big_Metadata_Warning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Blocked --></label>
+        <name>copado__Blocked</name>
     </customLabels>
     <customLabels>
         <label><!-- Branch Format --></label>
@@ -1589,6 +3377,10 @@
         <name>copado__CODE_COVERAGE</name>
     </customLabels>
     <customLabels>
+        <label><!-- COLON --></label>
+        <name>copado__COLON</name>
+    </customLabels>
+    <customLabels>
         <label><!-- COMMITS AHEAD --></label>
         <name>copado__COMMITS_AHEAD</name>
     </customLabels>
@@ -1599,6 +3391,10 @@
     <customLabels>
         <label><!-- COMMITS_BEING_RETRIEVED --></label>
         <name>copado__COMMITS_BEING_RETRIEVED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- COMMIT_CHANGES_SERIALIZATION_ERROR --></label>
+        <name>copado__COMMIT_CHANGES_SERIALIZATION_ERROR</name>
     </customLabels>
     <customLabels>
         <label><!-- COMMIT COMMENT --></label>
@@ -2113,6 +3909,10 @@
         <name>copado__Cancellation</name>
     </customLabels>
     <customLabels>
+        <label><!-- Cannot Submit User Stories Info Message --></label>
+        <name>copado__Cannot_Submit_User_Stories_Info_Message</name>
+    </customLabels>
+    <customLabels>
         <label><!-- ChangeBaseBranch --></label>
         <name>copado__ChangeBaseBranch</name>
     </customLabels>
@@ -2187,6 +3987,10 @@
     <customLabels>
         <label><!-- ChooseTestType --></label>
         <name>copado__ChooseTestType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Choose_Record_Matching_Formula_or_Create --></label>
+        <name>copado__Choose_Record_Matching_Formula_or_Create</name>
     </customLabels>
     <customLabels>
         <label><!-- Circular connection issue --></label>
@@ -2481,6 +4285,14 @@
         <name>copado__Configure</name>
     </customLabels>
     <customLabels>
+        <label><!-- ConfigureAQF PS DeveloperName --></label>
+        <name>copado__ConfigureAQF_PS_DeveloperName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ConfigureAQF PS LabelName --></label>
+        <name>copado__ConfigureAQF_PS_LabelName</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Configure Record Matching Formula Description --></label>
         <name>copado__ConfigureRecordMatchingFormulaDescription</name>
     </customLabels>
@@ -2507,6 +4319,10 @@
     <customLabels>
         <label><!-- Configure Formula --></label>
         <name>copado__Configure_Formula</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Configure Formula Header --></label>
+        <name>copado__Configure_Formula_Header</name>
     </customLabels>
     <customLabels>
         <label><!-- Configure Parameters --></label>
@@ -2797,8 +4613,16 @@
         <name>copado__Copado_DevOps_Connected_App_Documentation_Link</name>
     </customLabels>
     <customLabels>
+        <label><!-- Copado Documentation --></label>
+        <name>copado__Copado_Documentation</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Copado Guest --></label>
         <name>copado__Copado_Guest</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid Parameter while fetching Copado Latest packages --></label>
+        <name>copado__Copado_Latest_Package_Invalid_Parameter</name>
     </customLabels>
     <customLabels>
         <label><!-- Copado License --></label>
@@ -2823,6 +4647,10 @@
     <customLabels>
         <label><!-- Copado Persona --></label>
         <name>copado__Copado_Persona</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Copado Persona Management --></label>
+        <name>copado__Copado_Persona_Management</name>
     </customLabels>
     <customLabels>
         <label><!-- Copado_Persona_Management_Subtitle --></label>
@@ -2851,6 +4679,10 @@
     <customLabels>
         <label><!-- Copado Record Matching Formula Description With Records --></label>
         <name>copado__Copado_Record_Matching_Formula_Description_With_Records</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Copado Releases page --></label>
+        <name>copado__Copado_Releases</name>
     </customLabels>
     <customLabels>
         <label><!-- Copado User --></label>
@@ -2921,8 +4753,40 @@
         <name>copado__CreateFullScratchOrg_Init_Message</name>
     </customLabels>
     <customLabels>
+        <label><!-- CreateNewRecordMatchingFormula --></label>
+        <name>copado__CreateNewRecordMatchingFormula</name>
+    </customLabels>
+    <customLabels>
         <label><!-- CreateQuickTestSettings --></label>
         <name>copado__CreateQuickTestSettings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create automation --></label>
+        <name>copado__Create_Automation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Automation Rule No Permission Body --></label>
+        <name>copado__Create_Automation_Rule_No_Permission_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Automation Rule No Permission Message --></label>
+        <name>copado__Create_Automation_Rule_No_Permission_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Automation Rule Second Step Title --></label>
+        <name>copado__Create_Automation_Rule_Second_Step_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Automation Rule Success Body --></label>
+        <name>copado__Create_Automation_Rule_Success_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Automation Rule Success Message --></label>
+        <name>copado__Create_Automation_Rule_Success_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create automation Title --></label>
+        <name>copado__Create_Automation_Title</name>
     </customLabels>
     <customLabels>
         <label><!-- Create Back Promotion --></label>
@@ -2935,6 +4799,10 @@
     <customLabels>
         <label><!-- Create Default Personas Error Message --></label>
         <name>copado__Create_Default_Personas_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Formula Message --></label>
+        <name>copado__Create_Formula_Message</name>
     </customLabels>
     <customLabels>
         <label><!-- Create Job Execution only --></label>
@@ -3089,6 +4957,10 @@
         <name>copado__Cron_Expression_Days</name>
     </customLabels>
     <customLabels>
+        <label><!-- Cron Expression Helptext --></label>
+        <name>copado__Cron_Expression_Helptext</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Cron Expression Hours --></label>
         <name>copado__Cron_Expression_Hours</name>
     </customLabels>
@@ -3115,6 +4987,10 @@
     <customLabels>
         <label><!-- CustomCriteria --></label>
         <name>copado__CustomCriteriaDefinition</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Custom Acceptance Criteria --></label>
+        <name>copado__Custom_Acceptance_Criteria</name>
     </customLabels>
     <customLabels>
         <label><!-- Custom Automation Connector --></label>
@@ -3155,6 +5031,14 @@
     <customLabels>
         <label><!-- DATE --></label>
         <name>copado__DATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DAYS --></label>
+        <name>copado__DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DAYS_AT --></label>
+        <name>copado__DAYS_AT</name>
     </customLabels>
     <customLabels>
         <label><!-- DAY_S --></label>
@@ -3777,6 +5661,14 @@
         <name>copado__Deactivate</name>
     </customLabels>
     <customLabels>
+        <label><!-- Deactivate Quality Gate Warning Message --></label>
+        <name>copado__Deactivate_Quality_Gate_Warning_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Deactivate Validation Rule --></label>
+        <name>copado__Deactivate_Validation_Rule</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Deactivating Automation Rule --></label>
         <name>copado__DeactivatingAutomationBodyMessage</name>
     </customLabels>
@@ -3823,6 +5715,18 @@
     <customLabels>
         <label><!-- Default Pipeline Actions Not Editable --></label>
         <name>copado__DefaultPipelineActionsNotEditable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Defualt Development Stage --></label>
+        <name>copado__Default_Development_Stage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Production Stage --></label>
+        <name>copado__Default_Production_Stage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Testing Stage --></label>
+        <name>copado__Default_Testing_Stage</name>
     </customLabels>
     <customLabels>
         <label><!-- Default Value --></label>
@@ -4117,6 +6021,10 @@
         <name>copado__DifferentTestTypes</name>
     </customLabels>
     <customLabels>
+        <label><!-- Different Pipelines Promotion Validation Error --></label>
+        <name>copado__Different_Pipelines_Promotion_Validation_Error</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Different Project Promotion Validation Error --></label>
         <name>copado__Different_Projects_Promotion_Validation</name>
     </customLabels>
@@ -4155,6 +6063,10 @@
     <customLabels>
         <label><!-- Disable it Now --></label>
         <name>copado__Disable_It_Now</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Disable JWT Process Error --></label>
+        <name>copado__Disable_JWT_Process_Error</name>
     </customLabels>
     <customLabels>
         <label><!-- resultMonitor --></label>
@@ -4221,8 +6133,20 @@
         <name>copado__DuplicateTemplateName</name>
     </customLabels>
     <customLabels>
+        <label><!-- Duplicate Automation Rule --></label>
+        <name>copado__Duplicate_Automation_Rule</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Duplicate Next Stage Connection Error --></label>
         <name>copado__Duplicate_Next_Stage_Connection_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Duplicate QG --></label>
+        <name>copado__Duplicate_QG</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Duplicate QG Edit --></label>
+        <name>copado__Duplicate_QG_Edit</name>
     </customLabels>
     <customLabels>
         <label><!-- Duplicate Quality Gate Rule Condition --></label>
@@ -4513,6 +6437,10 @@
         <name>copado__EditConnectedAppPolicies</name>
     </customLabels>
     <customLabels>
+        <label><!-- EditConnectedAppPoliciesDisable --></label>
+        <name>copado__EditConnectedAppPoliciesDisable</name>
+    </customLabels>
+    <customLabels>
         <label><!-- EditDataTemplate --></label>
         <name>copado__EditDataTemplate</name>
     </customLabels>
@@ -4523,6 +6451,10 @@
     <customLabels>
         <label><!-- Edit Notification --></label>
         <name>copado__EditNotification</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EditRecordMatchingFormula --></label>
+        <name>copado__EditRecordMatchingFormula</name>
     </customLabels>
     <customLabels>
         <label><!-- EditStories --></label>
@@ -4551,6 +6483,14 @@
     <customLabels>
         <label><!-- Edit_Behavior_of_Outgoing_Connection --></label>
         <name>copado__Edit_Behavior_of_Outgoing_Connection</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Connected App Policy Description --></label>
+        <name>copado__Edit_Connected_App_Policy_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Cron Expression --></label>
+        <name>copado__Edit_Cron_Expression</name>
     </customLabels>
     <customLabels>
         <label><!-- Edit custom persona description --></label>
@@ -4627,6 +6567,10 @@
     <customLabels>
         <label><!-- Enable Feature Success Message --></label>
         <name>copado__Enable_Feature_Success_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Enable JWT Process Error --></label>
+        <name>copado__Enable_JWT_Process_Error</name>
     </customLabels>
     <customLabels>
         <label><!-- resultMonitor --></label>
@@ -4777,6 +6721,10 @@
         <name>copado__ErrorNoAcceptanceCriteriaFound</name>
     </customLabels>
     <customLabels>
+        <label><!-- Error Refresh Message --></label>
+        <name>copado__ErrorRefreshMessage</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Error While Deleting --></label>
         <name>copado__ErrorWhileDeleting</name>
     </customLabels>
@@ -4893,12 +6841,20 @@
         <name>copado__Error_Value</name>
     </customLabels>
     <customLabels>
+        <label><!-- Error deserializing pipeline prefetched volumes configuration --></label>
+        <name>copado__Error_deserializing_pipeline_prefetched_volumes_configuration</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Error_during_artifact_dependency_calculation --></label>
         <name>copado__Error_during_artifact_dependency_calculation</name>
     </customLabels>
     <customLabels>
         <label><!-- Error in saving scripts --></label>
         <name>copado__Error_in_saving_scripts</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error stopping scheduled job --></label>
+        <name>copado__Error_stopping_scheduled_job</name>
     </customLabels>
     <customLabels>
         <label><!-- Error while creating the Job Execution --></label>
@@ -5285,6 +7241,10 @@
         <name>copado__Failed_Tests_in_Promotion</name>
     </customLabels>
     <customLabels>
+        <label><!-- Failure --></label>
+        <name>copado__Failure</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Feature_Branch --></label>
         <name>copado__Feature_Branch</name>
     </customLabels>
@@ -5497,12 +7457,20 @@
         <name>copado__Formula</name>
     </customLabels>
     <customLabels>
+        <label><!-- FormulaCreateInfoMessage --></label>
+        <name>copado__FormulaCreateInfoMessage</name>
+    </customLabels>
+    <customLabels>
         <label><!-- FormulaEditInfoMessage --></label>
         <name>copado__FormulaEditInfoMessage</name>
     </customLabels>
     <customLabels>
         <label><!-- FormulaUpdateSuccessMessage --></label>
         <name>copado__FormulaUpdateSuccessMessage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Formula Unavailable --></label>
+        <name>copado__Formula_Unavailable</name>
     </customLabels>
     <customLabels>
         <label><!-- Forward Promotions --></label>
@@ -5769,8 +7737,16 @@
         <name>copado__Generate_package</name>
     </customLabels>
     <customLabels>
+        <label><!-- Generic Error --></label>
+        <name>copado__GenericError</name>
+    </customLabels>
+    <customLabels>
         <label><!-- GetCSValues --></label>
         <name>copado__GetCSValues</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GetQueuesFailed --></label>
+        <name>copado__GetQueuesFailed</name>
     </customLabels>
     <customLabels>
         <label><!-- Get_Started_With_Persona_Management --></label>
@@ -6049,12 +8025,20 @@
         <name>copado__Has_been_created_successfully_for_connection</name>
     </customLabels>
     <customLabels>
+        <label><!-- Hash External Id --></label>
+        <name>copado__Hash_External_Id</name>
+    </customLabels>
+    <customLabels>
         <label><!-- HeaderIsUpdated --></label>
         <name>copado__HeaderIsUpdated</name>
     </customLabels>
     <customLabels>
         <label><!-- HelpTextForContextId --></label>
         <name>copado__HelpTextForContextId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Help Docs Title --></label>
+        <name>copado__Help_Docs_Title</name>
     </customLabels>
     <customLabels>
         <label><!-- Here --></label>
@@ -6117,6 +8101,18 @@
         <name>copado__INSUFFICIENT_LICENSE_ACCESS</name>
     </customLabels>
     <customLabels>
+        <label><!-- INVALID DELETE ON STANDARD RECORDS --></label>
+        <name>copado__INVALID_DELETE_ON_STANDARD_RECORDS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- INVALID INSERT ON STANDARD RECORDS --></label>
+        <name>copado__INVALID_INSERT_ON_STANDARD_RECORDS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- INVALID UPDATE ON STANDARD RECORDS --></label>
+        <name>copado__INVALID_UPDATE_ON_STANDARD_RECORDS</name>
+    </customLabels>
+    <customLabels>
         <label><!-- IN USERSTORY --></label>
         <name>copado__IN_USERSTORY</name>
     </customLabels>
@@ -6167,6 +8163,10 @@
     <customLabels>
         <label><!-- In Sync --></label>
         <name>copado__In_Sync</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Inactive --></label>
+        <name>copado__Inactive</name>
     </customLabels>
     <customLabels>
         <label><!-- Inactive ExtensionConfig Message --></label>
@@ -6417,12 +8417,20 @@
         <name>copado__Invalid_Project</name>
     </customLabels>
     <customLabels>
+        <label><!-- Invalid Promotion Validation Error --></label>
+        <name>copado__Invalid_Promotion_Validation_Error</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Invalid Relationship Error --></label>
         <name>copado__Invalid_Relationship_Error</name>
     </customLabels>
     <customLabels>
         <label><!-- Invalid Step Order --></label>
         <name>copado__Invalid_Step</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid User Stories In The Promotion Validation Error --></label>
+        <name>copado__Invalid_User_Stories_In_The_Promotion_Validation_Error</name>
     </customLabels>
     <customLabels>
         <label><!-- Is_Required --></label>
@@ -6507,6 +8515,10 @@
     <customLabels>
         <label><!-- Job Template Not Found --></label>
         <name>copado__JobTemplateNotFound</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Job Execution --></label>
+        <name>copado__Job_Execution</name>
     </customLabels>
     <customLabels>
         <label><!-- Job Execution Launched --></label>
@@ -6607,6 +8619,10 @@
     <customLabels>
         <label><!-- Keep manual promotions --></label>
         <name>copado__Keep_manual_promotions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Key not found --></label>
+        <name>copado__KeyNotFound</name>
     </customLabels>
     <customLabels>
         <label><!-- Key Expired --></label>
@@ -6761,6 +8777,10 @@
         <name>copado__Latest_Updates</name>
     </customLabels>
     <customLabels>
+        <label><!-- Learn More --></label>
+        <name>copado__Learn_More</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Legend --></label>
         <name>copado__Legend</name>
     </customLabels>
@@ -6771,6 +8791,10 @@
     <customLabels>
         <label><!-- Less Than --></label>
         <name>copado__Less_Than</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- License Assignment --></label>
+        <name>copado__LicenseAssignment</name>
     </customLabels>
     <customLabels>
         <label><!-- LicenseError --></label>
@@ -7027,6 +9051,10 @@
     <customLabels>
         <label><!-- Main Object Tooltip --></label>
         <name>copado__Main_Object_Tooltip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Major_Package_Upgrade_Message --></label>
+        <name>copado__Major_Package_Upgrade_Message</name>
     </customLabels>
     <customLabels>
         <label><!-- Queue --></label>
@@ -7397,6 +9425,10 @@
         <name>copado__Minimum_Testers</name>
     </customLabels>
     <customLabels>
+        <label><!-- Minor_Package_Upgrade_Message --></label>
+        <name>copado__Minor_Package_Upgrade_Message</name>
+    </customLabels>
+    <customLabels>
         <label><!-- MissingCredentialId --></label>
         <name>copado__MissingCredentialId</name>
     </customLabels>
@@ -7465,6 +9497,10 @@
         <name>copado__Missing_Parameter_Pull_Request</name>
     </customLabels>
     <customLabels>
+        <label><!-- Invalid Parameter while fetching Copado Latest packages --></label>
+        <name>copado__Missing_Parameters_For_Copado_Latest_Packages</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Missing Permissions --></label>
         <name>copado__Missing_Permissions</name>
     </customLabels>
@@ -7515,6 +9551,14 @@
     <customLabels>
         <label><!-- PackageVersionCreateAction --></label>
         <name>copado__MultiplePackageVersionCreationRequestNotAllowed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Multiple_Projects_Promotion_Validation_Error --></label>
+        <name>copado__Multiple_Projects_Promotion_Creation_Validation_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Multiple_Projects_Promotion_Validation_Error --></label>
+        <name>copado__Multiple_Projects_Promotion_Validation_Error</name>
     </customLabels>
     <customLabels>
         <label><!-- Must_Save --></label>
@@ -7881,6 +9925,10 @@
         <name>copado__New_Release_Version_Helptext</name>
     </customLabels>
     <customLabels>
+        <label><!-- Next Scheduled Run On --></label>
+        <name>copado__Next_Scheduled_Run_On</name>
+    </customLabels>
+    <customLabels>
         <label><!-- NoAccessToCredential --></label>
         <name>copado__NoAccessToCredential</name>
     </customLabels>
@@ -7931,6 +9979,14 @@
     <customLabels>
         <label><!-- No Pipeline Linked to Package --></label>
         <name>copado__NoPipelineLinkedToPackage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoQueueData --></label>
+        <name>copado__NoQueueData</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NoQueuesInProgress --></label>
+        <name>copado__NoQueuesInProgress</name>
     </customLabels>
     <customLabels>
         <label><!-- NoStepsToDisplay --></label>
@@ -8069,6 +10125,10 @@
         <name>copado__No_Permission_Set_Groups_Title</name>
     </customLabels>
     <customLabels>
+        <label><!-- No Permission To Manage QG --></label>
+        <name>copado__No_Permission_To_Manage_QG</name>
+    </customLabels>
+    <customLabels>
         <label><!-- No Permissions Assigned --></label>
         <name>copado__No_Permissions_Assigned</name>
     </customLabels>
@@ -8115,6 +10175,14 @@
     <customLabels>
         <label><!-- No necessary permission for automation rule --></label>
         <name>copado__No_necessary_permission_for_automation_rule</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No or Mixed Projects Validation --></label>
+        <name>copado__No_or_Mixed_Projects_Validation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No prefetch volumes configuration found for this pipeline --></label>
+        <name>copado__No_prefetch_volumes_configuration_found_for_this_pipeline</name>
     </customLabels>
     <customLabels>
         <label><!-- No records available --></label>
@@ -8625,6 +10693,14 @@
         <name>copado__Override_Filter_Help</name>
     </customLabels>
     <customLabels>
+        <label><!-- Overview License Usage --></label>
+        <name>copado__OverviewLicenseUsage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Overview No Access --></label>
+        <name>copado__OverviewNoAccess</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Overwrite Parameters --></label>
         <name>copado__Overwrite_Parameters</name>
     </customLabels>
@@ -8705,6 +10781,34 @@
         <name>copado__PM</name>
     </customLabels>
     <customLabels>
+        <label><!-- PM Missing Permission Set --></label>
+        <name>copado__PM_Missing_Permission_Set</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PM No Access --></label>
+        <name>copado__PM_No_Access</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PM No Active Pipelines --></label>
+        <name>copado__PM_No_Active_Pipelines</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PM No Copado License --></label>
+        <name>copado__PM_No_Copado_License</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PM Pipeline Inactive --></label>
+        <name>copado__PM_Pipeline_Inactive</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PM Pipeline Not Configured --></label>
+        <name>copado__PM_Pipeline_Not_Configured</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PM Use Pipeline Manager Button --></label>
+        <name>copado__PM_Use_Pipeline_Manager_Button</name>
+    </customLabels>
+    <customLabels>
         <label><!-- POPUP BLOCKER MESSAGE --></label>
         <name>copado__POPUP_BLOCKER_MESSAGE</name>
     </customLabels>
@@ -8755,6 +10859,10 @@
     <customLabels>
         <label><!-- PROMOTION BASE BRANCH CONFLICT --></label>
         <name>copado__PROMOTION_BASE_BRANCH_CONFLICT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PROMOTION_DIRECT_PIPELINE_RESTRICTION --></label>
+        <name>copado__PROMOTION_DIRECT_PIPELINE_RESTRICTION</name>
     </customLabels>
     <customLabels>
         <label><!-- PROMOTION_FLOW_INACTIVE --></label>
@@ -8941,6 +11049,10 @@
         <name>copado__Password_Success</name>
     </customLabels>
     <customLabels>
+        <label><!-- Patch_Package_Upgrade_Message --></label>
+        <name>copado__Patch_Package_Upgrade_Message</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Patch a Release --></label>
         <name>copado__Patch_a_Release</name>
     </customLabels>
@@ -9085,6 +11197,10 @@
         <name>copado__Pesona_Definition_Validation_Error</name>
     </customLabels>
     <customLabels>
+        <label><!-- Pipeline --></label>
+        <name>copado__Pipeline</name>
+    </customLabels>
+    <customLabels>
         <label><!-- PipelineConnectionEnvironmentUpdateValidationError --></label>
         <name>copado__PipelineConnectionEnvironmentUpdateValidationError</name>
     </customLabels>
@@ -9095,6 +11211,10 @@
     <customLabels>
         <label><!-- Pipeline Manager --></label>
         <name>copado__PipelineManager</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PipelinePlatformError --></label>
+        <name>copado__PipelinePlatformError</name>
     </customLabels>
     <customLabels>
         <label><!-- PipelineUnavailableForInitialization --></label>
@@ -9485,6 +11605,10 @@
         <name>copado__Please_select_hub</name>
     </customLabels>
     <customLabels>
+        <label><!-- Predefined Automation Connector --></label>
+        <name>copado__Predefined_Automation_Connector</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Prepare Another Promotion --></label>
         <name>copado__Prepare_Another_Promotion</name>
     </customLabels>
@@ -9657,6 +11781,10 @@
         <name>copado__Promotion_Validation_Success</name>
     </customLabels>
     <customLabels>
+        <label><!-- Provide an Extension Configuration --></label>
+        <name>copado__Provide_Extension_Configuration</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Pull Request For Promotion Can Not Be Open --></label>
         <name>copado__Pull_Request_For_Promotion_Can_Not_Be_Open</name>
     </customLabels>
@@ -9671,6 +11799,14 @@
     <customLabels>
         <label><!-- Push forceignore body --></label>
         <name>copado__Push_forceignore_body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QG Successfully created --></label>
+        <name>copado__QG_Successfully_created</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QG_will run if pipeline is active --></label>
+        <name>copado__QG_will_run_if_pipeline_is_active</name>
     </customLabels>
     <customLabels>
         <label><!-- QUALITY GATES --></label>
@@ -9715,6 +11851,10 @@
     <customLabels>
         <label><!-- Quality Gate Rule Deactivated --></label>
         <name>copado__QualityGateRuleDeactivated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- QualityGateRules --></label>
+        <name>copado__QualityGateRules</name>
     </customLabels>
     <customLabels>
         <label><!-- Quality Gates Add Condition Button --></label>
@@ -9805,12 +11945,224 @@
         <name>copado__Quality_Gate</name>
     </customLabels>
     <customLabels>
+        <label><!-- Quality Gate Acceptance Criteria Not Supported --></label>
+        <name>copado__Quality_Gate_Acceptance_Criteria_Not_Supported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Activation Inbound Connection Error --></label>
+        <name>copado__Quality_Gate_Activation_Inbound_Connection_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Advanced Filters Deactivate Message --></label>
+        <name>copado__Quality_Gate_Advanced_Filters_Deactivate_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Condition Filter Title --></label>
+        <name>copado__Quality_Gate_Condition_Filter_Title</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Quality Gate Condition Not Considered --></label>
         <name>copado__Quality_Gate_Condition_Not_Considered</name>
     </customLabels>
     <customLabels>
+        <label><!-- Quality Gate Dynamic Status --></label>
+        <name>copado__Quality_Gate_Dynamic_Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Edit Container Condition Update Failed --></label>
+        <name>copado__Quality_Gate_Edit_Container_Condition_Update_Failed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Edit Container Failure --></label>
+        <name>copado__Quality_Gate_Edit_Container_Failure</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Edit Container Filter Logic Chain Failed --></label>
+        <name>copado__Quality_Gate_Edit_Container_Filter_Logic_Chain_Failed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Edit Container Layout Type Simple --></label>
+        <name>copado__Quality_Gate_Edit_Container_Layout_Type_Simple</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Edit Container Rule Update Failed --></label>
+        <name>copado__Quality_Gate_Edit_Container_Rule_Update_Failed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Evaluate Pipeline --></label>
+        <name>copado__Quality_Gate_Evaluate_Pipeline</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Advanced Filters Message --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Advanced_Filters_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard ApexTest Tool --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_ApexTest_Tool</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Configure Automation --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Configure_Automation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard DevOps Exchange --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_DevOps_Exchange</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Extension Configuration --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Extension_Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Extension Configuration Footer Description --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Extension_Configuration_Footer_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Extension Configuration Helptext --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Extension_Configuration_Helptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Extension Configuration Record --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Extension_Configuration_Record</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Footer Description --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Footer_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Footer Heading --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Footer_Heading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Gate Type --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Gate_Type</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Description --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Description Page2 --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading_Description_Page2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Message No Permissions --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading_Message_No_Permissions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Section Configuration --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading_Section_Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Section Criterias --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading_Section_Criterias</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Heading Section Filters --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Heading_Section_Filters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard PMD Tool --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_PMD_Tool</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Pipeline Placeholder --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Pipeline_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Quality Tool --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Quality_Tool</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Launch Wizard Search Salesforce Placeholder --></label>
+        <name>copado__Quality_Gate_Launch_Wizard_Search_Salesforce_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Main Configuration Run Tool --></label>
+        <name>copado__Quality_Gate_Main_Configuration_Run_Tool</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Activate Error Message Title --></label>
+        <name>copado__Quality_Gate_Rule_Activate_Error_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Activate Header Title --></label>
+        <name>copado__Quality_Gate_Rule_Activate_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Activate Message Description --></label>
+        <name>copado__Quality_Gate_Rule_Activate_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Activate Message Title --></label>
+        <name>copado__Quality_Gate_Rule_Activate_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Deactivate Header Title --></label>
+        <name>copado__Quality_Gate_Rule_Deactivate_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Deactivate Messsage Description --></label>
+        <name>copado__Quality_Gate_Rule_Deactivate_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Deactivate Message Title --></label>
+        <name>copado__Quality_Gate_Rule_Deactivate_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Delete Messsage Description --></label>
+        <name>copado__Quality_Gate_Rule_Delete_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Delete Question --></label>
+        <name>copado__Quality_Gate_Rule_Delete_Question</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Delete Title --></label>
+        <name>copado__Quality_Gate_Rule_Delete_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Delete Warning Messsage --></label>
+        <name>copado__Quality_Gate_Rule_Delete_Warning_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Edit Header Description --></label>
+        <name>copado__Quality_Gate_Rule_Edit_Header_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Edit Header Title --></label>
+        <name>copado__Quality_Gate_Rule_Edit_Header_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Edit Messsage Description --></label>
+        <name>copado__Quality_Gate_Rule_Edit_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Edit Message Title --></label>
+        <name>copado__Quality_Gate_Rule_Edit_Message_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Fail Quality Gate Message --></label>
+        <name>copado__Quality_Gate_Rule_Fail_Quality_Gate_Message</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Quality Gate Rule Forbidden Action --></label>
         <name>copado__Quality_Gate_Rule_Forbidden_Action</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule Legacy Page --></label>
+        <name>copado__Quality_Gate_Rule_Legacy_Page</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule No Delete Messsage Description --></label>
+        <name>copado__Quality_Gate_Rule_No_Delete_Message_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Rule View Extension Configuration Footer Description --></label>
+        <name>copado__Quality_Gate_Rule_View_Extension_Configuration_Footer_Description</name>
     </customLabels>
     <customLabels>
         <label><!-- Quality Gate Rules Check --></label>
@@ -9819,6 +12171,18 @@
     <customLabels>
         <label><!-- Quality Gate Rules Check Button --></label>
         <name>copado__Quality_Gate_Rules_Check_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gate Success Delete --></label>
+        <name>copado__Quality_Gate_Success_Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Gates No Permission --></label>
+        <name>copado__Quality_Gates_No_Permission</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Quality Tools Without Active Extension Configuration --></label>
+        <name>copado__Quality_Tools_Without_Active_Extension_Configuration</name>
     </customLabels>
     <customLabels>
         <label><!-- Query Editor --></label>
@@ -9939,6 +12303,10 @@
     <customLabels>
         <label><!-- REMOVE SELECTED USER STORIES --></label>
         <name>copado__REMOVE_SELECTED_USER_STORIES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Remove Selected from Bundle --></label>
+        <name>copado__REMOVE_USER_STORIES_FROM_BUNDLE</name>
     </customLabels>
     <customLabels>
         <label><!-- Removing User Stories --></label>
@@ -10129,6 +12497,10 @@
         <name>copado__RecordMatchingAuthenticationError</name>
     </customLabels>
     <customLabels>
+        <label><!-- RecordMatchingAuthenticationMessage --></label>
+        <name>copado__RecordMatchingAuthenticationMessage</name>
+    </customLabels>
+    <customLabels>
         <label><!-- RecordMatchingFormulaError --></label>
         <name>copado__RecordMatchingFormulaError</name>
     </customLabels>
@@ -10143,6 +12515,10 @@
     <customLabels>
         <label><!-- RecordMatchingFormulaField3 --></label>
         <name>copado__RecordMatchingFormulaField3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RecordMatchingFormulaViewCopadoDocumentation --></label>
+        <name>copado__RecordMatchingFormulaViewCopadoDocumentation</name>
     </customLabels>
     <customLabels>
         <label><!-- Record deleted successfully --></label>
@@ -10173,6 +12549,14 @@
         <name>copado__Record_Matching_Not_Configured</name>
     </customLabels>
     <customLabels>
+        <label><!-- Record Mtaching Formula Info --></label>
+        <name>copado__Record_Mtaching_Formula_Info</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record Page --></label>
+        <name>copado__Record_Page</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Record Type --></label>
         <name>copado__Record_Type</name>
     </customLabels>
@@ -10195,6 +12579,10 @@
     <customLabels>
         <label><!-- RefreshCS --></label>
         <name>copado__RefreshCS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Refresh Now --></label>
+        <name>copado__RefreshNow</name>
     </customLabels>
     <customLabels>
         <label><!-- RefreshSchema --></label>
@@ -10339,6 +12727,10 @@
     <customLabels>
         <label><!-- Release_Has_No_Git_Related --></label>
         <name>copado__Release_Has_No_Git_Related</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Release Manager_Title --></label>
+        <name>copado__Release_Manager_Title</name>
     </customLabels>
     <customLabels>
         <label><!-- Release (New Window) --></label>
@@ -10507,6 +12899,10 @@
     <customLabels>
         <label><!-- RepoId_Required --></label>
         <name>copado__RepoId_Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Reported --></label>
+        <name>copado__Reported</name>
     </customLabels>
     <customLabels>
         <label><!-- Repository --></label>
@@ -10683,6 +13079,10 @@
     <customLabels>
         <label><!-- Review Source &amp; Target --></label>
         <name>copado__Review_Source_Target</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Risk_Cat_Alert_Message --></label>
+        <name>copado__Risk_Cat_Alert_Message</name>
     </customLabels>
     <customLabels>
         <label><!-- Rollback --></label>
@@ -11189,6 +13589,10 @@
         <name>copado__START</name>
     </customLabels>
     <customLabels>
+        <label><!-- STARTING_AT --></label>
+        <name>copado__STARTING_AT</name>
+    </customLabels>
+    <customLabels>
         <label><!-- STARTING_COMMIT --></label>
         <name>copado__STARTING_COMMIT</name>
     </customLabels>
@@ -11461,6 +13865,10 @@
         <name>copado__SchemaRefreshed</name>
     </customLabels>
     <customLabels>
+        <label><!-- Schema Credential --></label>
+        <name>copado__Schema_Credential</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Scope --></label>
         <name>copado__Scope</name>
     </customLabels>
@@ -11599,6 +14007,10 @@
     <customLabels>
         <label><!-- Second-Generation Packages --></label>
         <name>copado__Second_Generation_Packages</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- See Copado Documentation --></label>
+        <name>copado__See_Copado_Documentation</name>
     </customLabels>
     <customLabels>
         <label><!-- See_Progress_Here --></label>
@@ -11811,6 +14223,10 @@
     <customLabels>
         <label><!-- Select Metadata --></label>
         <name>copado__Select_Metadata</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select Name --></label>
+        <name>copado__Select_Name</name>
     </customLabels>
     <customLabels>
         <label><!-- Select Object Kanban --></label>
@@ -12493,6 +14909,10 @@
         <name>copado__Sprint_Freezed</name>
     </customLabels>
     <customLabels>
+        <label><!-- Sprint Metrics --></label>
+        <name>copado__Sprint_Metrics</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Sprint Size Exception Message --></label>
         <name>copado__Sprint_Size_Exception_Message</name>
     </customLabels>
@@ -12505,8 +14925,16 @@
         <name>copado__Sprints_share_same_project_release</name>
     </customLabels>
     <customLabels>
+        <label><!-- Stability Icon --></label>
+        <name>copado__Stability_Icon</name>
+    </customLabels>
+    <customLabels>
         <label><!-- StackTrace --></label>
         <name>copado__StackTrace</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Stage --></label>
+        <name>copado__Stage</name>
     </customLabels>
     <customLabels>
         <label><!-- Stages --></label>
@@ -12527,6 +14955,10 @@
     <customLabels>
         <label><!-- Standard Functions not Editable --></label>
         <name>copado__Standard_Functions_not_Editable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Standard Record Page ApiName --></label>
+        <name>copado__Standard_Record_Page_ApiName</name>
     </customLabels>
     <customLabels>
         <label><!-- Start Adding Licenses Now --></label>
@@ -12583,6 +15015,10 @@
     <customLabels>
         <label><!-- Static Code Analysis on User Story Description --></label>
         <name>copado__Static_Code_Analysis_on_User_Story_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status API Key required --></label>
+        <name>copado__StatusApiKeyRequired</name>
     </customLabels>
     <customLabels>
         <label><!-- Status Date --></label>
@@ -13061,6 +15497,10 @@
         <name>copado__Task_View</name>
     </customLabels>
     <customLabels>
+        <label><!-- Tasks in Queue --></label>
+        <name>copado__TasksInQueue</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Template --></label>
         <name>copado__Template</name>
     </customLabels>
@@ -13253,12 +15693,20 @@
         <name>copado__Tests</name>
     </customLabels>
     <customLabels>
+        <label><!-- Tests Linked To --></label>
+        <name>copado__Tests_Linked_To</name>
+    </customLabels>
+    <customLabels>
         <label><!-- The Pipeline Builder is not available on this platform. --></label>
         <name>copado__The_Pipeline_Builder_is_not_available_on_this_platform</name>
     </customLabels>
     <customLabels>
         <label><!-- ThereShouldBeAtLeastOneChangeToCommit --></label>
         <name>copado__ThereShouldBeAtLeastOneChangeToCommit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- There are errors --></label>
+        <name>copado__There_are_errors</name>
     </customLabels>
     <customLabels>
         <label><!-- There are not User Stories in this Promotion. --></label>
@@ -13281,8 +15729,16 @@
         <name>copado__This_test_is_already_running</name>
     </customLabels>
     <customLabels>
+        <label><!-- To Account Summary --></label>
+        <name>copado__ToAccountSummary</name>
+    </customLabels>
+    <customLabels>
         <label><!-- To Filter Range --></label>
         <name>copado__ToFilterRange</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- To License Manager --></label>
+        <name>copado__ToLicenseManager</name>
     </customLabels>
     <customLabels>
         <label><!-- ToSetApiKey --></label>
@@ -13877,6 +16333,26 @@
         <name>copado__Updated_User_Story_Metadata</name>
     </customLabels>
     <customLabels>
+        <label><!-- Upgrade Alert Title For Multiple Package --></label>
+        <name>copado__Upgrade_Alert_Title_For_Multiple_Package</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upgrade Alert Title For Single Package --></label>
+        <name>copado__Upgrade_Alert_Title_For_Single_Package</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upgrade message on major muliple Packages Version --></label>
+        <name>copado__Upgrade_Message_On_Major_Muliple_Packages_Version</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upgrade message on minor muliple Packages Version --></label>
+        <name>copado__Upgrade_Message_On_Minor_Muliple_Packages_Version</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Upgrade message on patch muliple Packages Version --></label>
+        <name>copado__Upgrade_Message_On_Patch_Muliple_Packages_Version</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Upload Convert forceignore --></label>
         <name>copado__Upload_Convert_forceignore</name>
     </customLabels>
@@ -14149,6 +16625,10 @@
         <name>copado__VLOCITY_SETTING</name>
     </customLabels>
     <customLabels>
+        <label><!-- Valid Key --></label>
+        <name>copado__ValidKey</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Valid for Deployment --></label>
         <name>copado__Valid_for_Deployment</name>
     </customLabels>
@@ -14397,6 +16877,10 @@
         <name>copado__WEEKLY</name>
     </customLabels>
     <customLabels>
+        <label><!-- WEEKS --></label>
+        <name>copado__WEEKS</name>
+    </customLabels>
+    <customLabels>
         <label><!-- WITH_CREATE --></label>
         <name>copado__WITH_CREATE</name>
     </customLabels>
@@ -14521,6 +17005,10 @@
         <name>copado__Worst_Scored_User_Story</name>
     </customLabels>
     <customLabels>
+        <label><!-- WrongPlatformError --></label>
+        <name>copado__WrongPlatformError</name>
+    </customLabels>
+    <customLabels>
         <label><!-- 1 Panel --></label>
         <name>copado__X1_Panel</name>
     </customLabels>
@@ -14583,6 +17071,10 @@
     <customLabels>
         <label><!-- You must specify a value --></label>
         <name>copado__You_must_specify_a_value</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Your Current Licenses --></label>
+        <name>copado__YourCurrentLicenses</name>
     </customLabels>
     <customLabels>
         <label><!-- Your Deployment Name --></label>
@@ -14721,656 +17213,532 @@
         <name>copado__targetBranchRequired</name>
     </customLabels>
     <customLabels>
-        <label><!-- ADD APPENDIX --></label>
-        <name>copadoconnect__ADD_APPENDIX</name>
+        <label><!-- ADO Api Version --></label>
+        <name>copadoccmint__ADOApiVersion</name>
     </customLabels>
     <customLabels>
-        <label><!-- APPENDIX NEEDED --></label>
-        <name>copadoconnect__APPENDIX_NEEDED</name>
+        <label><!-- ADO Developer Field Name --></label>
+        <name>copadoccmint__ADODeveloperFieldName</name>
     </customLabels>
     <customLabels>
-        <label><!-- Activate --></label>
-        <name>copadoconnect__Activate</name>
+        <label><!-- Invalid Input Parameter --></label>
+        <name>copadoccmint__InvalidInputParameter</name>
     </customLabels>
     <customLabels>
-        <label><!-- ActivateIntegration --></label>
-        <name>copadoconnect__ActivateIntegration</name>
+        <label><!-- Invalid JQL Parameter --></label>
+        <name>copadoccmint__InvalidJQLParameter</name>
     </customLabels>
     <customLabels>
-        <label><!-- ActivateIntegrationAlert --></label>
-        <name>copadoconnect__ActivateIntegrationAlert</name>
+        <label><!-- Multiple Users With Common Email --></label>
+        <name>copadoccmint__MultipleUsersWithCommonEmail</name>
     </customLabels>
     <customLabels>
-        <label><!-- ActivateIntegrationWithWarningAlert --></label>
-        <name>copadoconnect__ActivateIntegrationWithWarningAlert</name>
+        <label><!-- AddRecordId --></label>
+        <name>smartlists__AddRecordId</name>
     </customLabels>
     <customLabels>
-        <label><!-- AddFieldValueMapping --></label>
-        <name>copadoconnect__AddFieldValueMapping</name>
+        <label><!-- All records are loaded --></label>
+        <name>smartlists__AllRecordsLoaded</name>
     </customLabels>
     <customLabels>
-        <label><!-- AddFieldValues --></label>
-        <name>copadoconnect__AddFieldValues</name>
+        <label><!-- Apply --></label>
+        <name>smartlists__Apply</name>
     </customLabels>
     <customLabels>
-        <label><!-- AddFields --></label>
-        <name>copadoconnect__AddFields</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AddMappingHeading --></label>
-        <name>copadoconnect__AddMappingHeading</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Appendix --></label>
-        <name>copadoconnect__Appendix</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AppendixHelpText --></label>
-        <name>copadoconnect__AppendixHelpText</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Authentication Error Message --></label>
-        <name>copadoconnect__AuthenticationErrorMessage</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- COPADO PROJECT --></label>
-        <name>copadoconnect__COPADO_PROJECT</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- CURRENT JQL --></label>
-        <name>copadoconnect__CURRENT_JQL</name>
+        <label><!-- Available --></label>
+        <name>smartlists__Available</name>
     </customLabels>
     <customLabels>
         <label><!-- Cancel --></label>
-        <name>copadoconnect__Cancel</name>
+        <name>smartlists__Cancel</name>
     </customLabels>
     <customLabels>
-        <label><!-- CloneIntegration --></label>
-        <name>copadoconnect__CloneIntegration</name>
+        <label><!-- CasesLists --></label>
+        <name>smartlists__CasesLists</name>
     </customLabels>
     <customLabels>
-        <label><!-- Clone Integration settings --></label>
-        <name>copadoconnect__Clone_Integration_settings</name>
+        <label><!-- Checked --></label>
+        <name>smartlists__Checked</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear --></label>
+        <name>smartlists__Clear</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear All --></label>
+        <name>smartlists__ClearAll</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Clear All Filters --></label>
+        <name>smartlists__ClearAllFilters</name>
     </customLabels>
     <customLabels>
         <label><!-- Close --></label>
-        <name>copadoconnect__Close</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectToProviderButton --></label>
-        <name>copadoconnect__ConnectToProviderButton</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionDetailFieldSet --></label>
-        <name>copadoconnect__ConnectionDetailFieldSet</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionDetailsLabel --></label>
-        <name>copadoconnect__ConnectionDetailsLabel</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionSetupAlert --></label>
-        <name>copadoconnect__ConnectionSetupAlert</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionSetupHeading --></label>
-        <name>copadoconnect__ConnectionSetupHeading</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionSetupValidationError --></label>
-        <name>copadoconnect__ConnectionSetupValidationError</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionStatusConnected --></label>
-        <name>copadoconnect__ConnectionStatusConnected</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ConnectionSuccessMessage --></label>
-        <name>copadoconnect__ConnectionSuccessMessage</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Connection Name --></label>
-        <name>copadoconnect__Connection_Name</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Copado --></label>
-        <name>copadoconnect__Copado</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- CopadoObjectFieldError --></label>
-        <name>copadoconnect__CopadoObjectFieldError</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- CopadoObjectRecordTypeError --></label>
-        <name>copadoconnect__CopadoObjectRecordTypeError</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- CopadoToExternalSystemTitle --></label>
-        <name>copadoconnect__CopadoToExternalSystemTitle</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Deactivate --></label>
-        <name>copadoconnect__Deactivate</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- DeactivateIntegration --></label>
-        <name>copadoconnect__DeactivateIntegration</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- DeactivateIntegrationModalBody --></label>
-        <name>copadoconnect__DeactivateIntegrationModalBody</name>
+        <name>smartlists__Close</name>
     </customLabels>
     <customLabels>
         <label><!-- Delete --></label>
-        <name>copadoconnect__Delete</name>
+        <name>smartlists__Delete</name>
     </customLabels>
     <customLabels>
-        <label><!-- DeleteFieldMappingLabel --></label>
-        <name>copadoconnect__DeleteFieldMappingLabel</name>
+        <label><!-- Deleting a file also removes it from any records or posts it&apos;s attached to --></label>
+        <name>smartlists__DeleteFileMessage</name>
     </customLabels>
     <customLabels>
-        <label><!-- DeleteFieldValueMappingLabel --></label>
-        <name>copadoconnect__DeleteFieldValueMappingLabel</name>
+        <label><!-- Are you sure you want to delete this {0}? --></label>
+        <name>smartlists__DeleteRecordMessage</name>
     </customLabels>
     <customLabels>
-        <label><!-- Description --></label>
-        <name>copadoconnect__Description</name>
+        <label><!-- Delete {0}? --></label>
+        <name>smartlists__DeleteRecordTitle</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateCopadoFieldMapped --></label>
-        <name>copadoconnect__DuplicateCopadoFieldMapped</name>
+        <label><!-- Deleting --></label>
+        <name>smartlists__Deleting</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateCopadoFieldValueMapped --></label>
-        <name>copadoconnect__DuplicateCopadoFieldValueMapped</name>
+        <label><!-- Download --></label>
+        <name>smartlists__Download</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateExternalFieldMapped --></label>
-        <name>copadoconnect__DuplicateExternalFieldMapped</name>
+        <label><!-- Download All Files --></label>
+        <name>smartlists__DownloadAllFiles</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateExternalFieldValueMapped --></label>
-        <name>copadoconnect__DuplicateExternalFieldValueMapped</name>
+        <label><!-- Are you sure you want to download {0} file(s) worth {1} MB? --></label>
+        <name>smartlists__DownloadConfirm</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateFieldMappingError --></label>
-        <name>copadoconnect__DuplicateFieldMappingError</name>
+        <label><!-- Download Files --></label>
+        <name>smartlists__DownloadFiles</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateFieldMappingErrorRow --></label>
-        <name>copadoconnect__DuplicateFieldMappingErrorRow</name>
+        <label><!-- Download limit exceeded. Please download less than {0}MB and less than {1} files --></label>
+        <name>smartlists__DownloadLimit</name>
     </customLabels>
     <customLabels>
-        <label><!-- DuplicateObjectMappingError --></label>
-        <name>copadoconnect__DuplicateObjectMappingError</name>
+        <label><!-- Download Menu --></label>
+        <name>smartlists__DownloadMenu</name>
     </customLabels>
     <customLabels>
-        <label><!-- EXTERNAL PROJECT --></label>
-        <name>copadoconnect__EXTERNAL_PROJECT</name>
+        <label><!-- Download Selected Files --></label>
+        <name>smartlists__DownloadSelectedFiles</name>
     </customLabels>
     <customLabels>
         <label><!-- Edit --></label>
-        <name>copadoconnect__Edit</name>
+        <name>smartlists__Edit</name>
     </customLabels>
     <customLabels>
-        <label><!-- EditMappingHeading --></label>
-        <name>copadoconnect__EditMappingHeading</name>
+        <label><!-- Edit File Details --></label>
+        <name>smartlists__EditFileDetails</name>
     </customLabels>
     <customLabels>
-        <label><!-- Error --></label>
-        <name>copadoconnect__Error</name>
+        <label><!-- ErrorMissingValue --></label>
+        <name>smartlists__ErrorMissingValue</name>
     </customLabels>
     <customLabels>
-        <label><!-- Error Finding Records --></label>
-        <name>copadoconnect__Error_Finding_Records</name>
+        <label><!-- Error Message: Error during New Version Upload --></label>
+        <name>smartlists__ErrorMsgCantUploadNewVersion</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalKeyAppendixPlaceholder --></label>
-        <name>copadoconnect__ExternalKeyAppendixPlaceholder</name>
+        <label><!-- Error Message: Invalid extension for file upload --></label>
+        <name>smartlists__ErrorMsgInvalidExtension</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalObjectLabel --></label>
-        <name>copadoconnect__ExternalObjectLabel</name>
+        <label><!-- Errors(s) --></label>
+        <name>smartlists__Errors</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalObjectPlaceHolder --></label>
-        <name>copadoconnect__ExternalObjectPlaceHolder</name>
+        <label><!-- Export --></label>
+        <name>smartlists__Export</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalProjectKey --></label>
-        <name>copadoconnect__ExternalProjectKey</name>
+        <label><!-- ExportToCSV --></label>
+        <name>smartlists__ExportToCSV</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalProjectKeyPlaceholder --></label>
-        <name>copadoconnect__ExternalProjectKeyPlaceholder</name>
+        <label><!-- Exporting --></label>
+        <name>smartlists__Exporting</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalRecordTypeLabel --></label>
-        <name>copadoconnect__ExternalRecordTypeLabel</name>
+        <label><!-- File --></label>
+        <name>smartlists__File</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalRecordTypePlaceHolder --></label>
-        <name>copadoconnect__ExternalRecordTypePlaceHolder</name>
+        <label><!-- File &quot;{0}&quot; was uploaded --></label>
+        <name>smartlists__FileVersionWasUploaded</name>
     </customLabels>
     <customLabels>
-        <label><!-- ExternalSystemToCopadoTitle --></label>
-        <name>copadoconnect__ExternalSystemToCopadoTitle</name>
+        <label><!-- Files --></label>
+        <name>smartlists__Files</name>
     </customLabels>
     <customLabels>
-        <label><!-- FETCH_BOARD_ERROR --></label>
-        <name>copadoconnect__FETCH_BOARD_ERROR</name>
+        <label><!-- File(s) have been uploaded --></label>
+        <name>smartlists__FilesHasBeenUploaded</name>
     </customLabels>
     <customLabels>
-        <label><!-- FIND PROJECT ERROR --></label>
-        <name>copadoconnect__FIND_PROJECT_ERROR</name>
+        <label><!-- End value must be greater than Start value --></label>
+        <name>smartlists__FilterRangeEndError</name>
     </customLabels>
     <customLabels>
-        <label><!-- FieldMappingErrorMessage1 --></label>
-        <name>copadoconnect__FieldMappingErrorMessage1</name>
+        <label><!-- End --></label>
+        <name>smartlists__FilterRangeEndLabel</name>
     </customLabels>
     <customLabels>
-        <label><!-- FieldMappingErrorMessage2 --></label>
-        <name>copadoconnect__FieldMappingErrorMessage2</name>
+        <label><!-- Max value must be greater than Min value --></label>
+        <name>smartlists__FilterRangeMaxError</name>
     </customLabels>
     <customLabels>
-        <label><!-- FieldSyncDirectionRequired --></label>
-        <name>copadoconnect__FieldSyncDirectionRequired</name>
+        <label><!-- Max --></label>
+        <name>smartlists__FilterRangeMaxLabel</name>
     </customLabels>
     <customLabels>
-        <label><!-- Field Mapping Missing --></label>
-        <name>copadoconnect__Field_Mapping_Missing</name>
+        <label><!-- Min value must be lower than Max value --></label>
+        <name>smartlists__FilterRangeMinError</name>
     </customLabels>
     <customLabels>
-        <label><!-- HelpTextForCloneIntegration --></label>
-        <name>copadoconnect__HelpTextForCloneIntegration</name>
+        <label><!-- Min --></label>
+        <name>smartlists__FilterRangeMinLabel</name>
     </customLabels>
     <customLabels>
-        <label><!-- ISSUE PERMISSION ERROR --></label>
-        <name>copadoconnect__ISSUE_PERMISSION_ERROR</name>
+        <label><!-- FilterRangeMissingValue --></label>
+        <name>smartlists__FilterRangeMissingValue</name>
     </customLabels>
     <customLabels>
-        <label><!-- Info --></label>
-        <name>copadoconnect__Info</name>
+        <label><!-- Start value must be lower than End value --></label>
+        <name>smartlists__FilterRangeStartError</name>
     </customLabels>
     <customLabels>
-        <label><!-- InputFieldValidationError --></label>
-        <name>copadoconnect__InputFieldValidationError</name>
+        <label><!-- Start --></label>
+        <name>smartlists__FilterRangeStartLabel</name>
     </customLabels>
     <customLabels>
-        <label><!-- InsufficientAccess --></label>
-        <name>copadoconnect__InsufficientAccess</name>
+        <label><!-- Label of Search File Content input in Filter Panel --></label>
+        <name>smartlists__FilterSOSLSearchFileContent</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationActivated --></label>
-        <name>copadoconnect__IntegrationActivated</name>
+        <label><!-- Label of Search on Record input in Filter Panel --></label>
+        <name>smartlists__FilterSOSLSearchRecord</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationActivationError --></label>
-        <name>copadoconnect__IntegrationActivationError</name>
+        <label><!-- Error Msg: Search value too short --></label>
+        <name>smartlists__FilterSOSLSearchTooShortError</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationActivationWarning --></label>
-        <name>copadoconnect__IntegrationActivationWarning</name>
+        <label><!-- FilterSelection --></label>
+        <name>smartlists__FilterSelection</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationConfigMissingErrorHeading --></label>
-        <name>copadoconnect__IntegrationConfigMissingErrorHeading</name>
+        <label><!-- Filtered by --></label>
+        <name>smartlists__FilteredBy</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationConfigMissingErrorMessage --></label>
-        <name>copadoconnect__IntegrationConfigMissingErrorMessage</name>
+        <label><!-- Hide Quick Filters --></label>
+        <name>smartlists__HideQuickFilters</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationDeactivated --></label>
-        <name>copadoconnect__IntegrationDeactivated</name>
+        <label><!-- Items --></label>
+        <name>smartlists__ItemPlural</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationDeactivationError --></label>
-        <name>copadoconnect__IntegrationDeactivationError</name>
+        <label><!-- Item --></label>
+        <name>smartlists__ItemSingular</name>
     </customLabels>
     <customLabels>
-        <label><!-- IntegrationTypeNotValid --></label>
-        <name>copadoconnect__IntegrationTypeNotValid</name>
+        <label><!-- LoadAll --></label>
+        <name>smartlists__LoadAll</name>
     </customLabels>
     <customLabels>
-        <label><!-- Internal Server Error --></label>
-        <name>copadoconnect__Internal_Server_Error</name>
+        <label><!-- LoadMore --></label>
+        <name>smartlists__LoadMore</name>
     </customLabels>
     <customLabels>
-        <label><!-- Invalid record --></label>
-        <name>copadoconnect__Invalid_record</name>
+        <label><!-- Scroll to load more records --></label>
+        <name>smartlists__LoadMoreRecords</name>
     </customLabels>
     <customLabels>
-        <label><!-- JIRA BOARD ERROR --></label>
-        <name>copadoconnect__JIRA_BOARD_ERROR</name>
+        <label><!-- Loading --></label>
+        <name>smartlists__Loading</name>
     </customLabels>
     <customLabels>
-        <label><!-- JQLFilterHelpText --></label>
-        <name>copadoconnect__JQLFilterHelpText</name>
+        <label><!-- LookupNoResults --></label>
+        <name>smartlists__LookupNoResults</name>
     </customLabels>
     <customLabels>
-        <label><!-- JQLFilterPlaceholder --></label>
-        <name>copadoconnect__JQLFilterPlaceholder</name>
+        <label><!-- LookupObjectSelector --></label>
+        <name>smartlists__LookupObjectSelector</name>
     </customLabels>
     <customLabels>
-        <label><!-- JQL DUPLICATE --></label>
-        <name>copadoconnect__JQL_DUPLICATE</name>
+        <label><!-- LookupPlaceholder --></label>
+        <name>smartlists__LookupPlaceholder</name>
     </customLabels>
     <customLabels>
-        <label><!-- JQL EMPTY ERROR --></label>
-        <name>copadoconnect__JQL_EMPTY_ERROR</name>
+        <label><!-- LookupQueues --></label>
+        <name>smartlists__LookupQueues</name>
     </customLabels>
     <customLabels>
-        <label><!-- JQL ERROR --></label>
-        <name>copadoconnect__JQL_ERROR</name>
+        <label><!-- LookupRecent --></label>
+        <name>smartlists__LookupRecent</name>
     </customLabels>
     <customLabels>
-        <label><!-- JQL Filter --></label>
-        <name>copadoconnect__JQL_Filter</name>
+        <label><!-- Maximum of {0} records loaded. Additional records maybe available --></label>
+        <name>smartlists__MaxRecordsLoaded</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraBugFieldMappingError --></label>
-        <name>copadoconnect__JiraBugFieldMappingError</name>
+        <label><!-- MinRowSelectionError --></label>
+        <name>smartlists__MinRowSelectionError</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraCreatableFieldMappingError --></label>
-        <name>copadoconnect__JiraCreatableFieldMappingError</name>
+        <label><!-- New --></label>
+        <name>smartlists__New</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraEpicFieldMappingError --></label>
-        <name>copadoconnect__JiraEpicFieldMappingError</name>
+        <label><!-- Next --></label>
+        <name>smartlists__Next</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraProjectFieldMappingError --></label>
-        <name>copadoconnect__JiraProjectFieldMappingError</name>
+        <label><!-- No items to display. --></label>
+        <name>smartlists__NoItemsToDisplay</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraProjectObjectMappingError --></label>
-        <name>copadoconnect__JiraProjectObjectMappingError</name>
+        <label><!-- NoneValue --></label>
+        <name>smartlists__NoneValue</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraReleaseFieldMappingError --></label>
-        <name>copadoconnect__JiraReleaseFieldMappingError</name>
+        <label><!-- OperatorBetween --></label>
+        <name>smartlists__OperatorBetween</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraSalesforceRequiredFiedError --></label>
-        <name>copadoconnect__JiraSalesforceRequiredFiedError</name>
+        <label><!-- OperatorContains --></label>
+        <name>smartlists__OperatorContains</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraSprintFieldMappingError --></label>
-        <name>copadoconnect__JiraSprintFieldMappingError</name>
+        <label><!-- OperatorDoesNotContain --></label>
+        <name>smartlists__OperatorDoesNotContain</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraStoryFieldMappingError --></label>
-        <name>copadoconnect__JiraStoryFieldMappingError</name>
+        <label><!-- OperatorEquals --></label>
+        <name>smartlists__OperatorEquals</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraSubtaskFieldMappingError --></label>
-        <name>copadoconnect__JiraSubtaskFieldMappingError</name>
+        <label><!-- OperatorGreaterOrEqual --></label>
+        <name>smartlists__OperatorGreaterOrEqual</name>
     </customLabels>
     <customLabels>
-        <label><!-- JiraTaskFieldMappingError --></label>
-        <name>copadoconnect__JiraTaskFieldMappingError</name>
+        <label><!-- OperatorGreaterThan --></label>
+        <name>smartlists__OperatorGreaterThan</name>
     </customLabels>
     <customLabels>
-        <label><!-- MapValues --></label>
-        <name>copadoconnect__MapValues</name>
+        <label><!-- OperatorIn --></label>
+        <name>smartlists__OperatorIn</name>
     </customLabels>
     <customLabels>
-        <label><!-- Mapping_Icon --></label>
-        <name>copadoconnect__Mapping_Icon</name>
+        <label><!-- OperatorIsNotNull --></label>
+        <name>smartlists__OperatorIsNotNull</name>
     </customLabels>
     <customLabels>
-        <label><!-- MappingSaveError --></label>
-        <name>copadoconnect__MappingsSaveError</name>
+        <label><!-- OperatorIsNull --></label>
+        <name>smartlists__OperatorIsNull</name>
     </customLabels>
     <customLabels>
-        <label><!-- MappingsSavedSuccessfully --></label>
-        <name>copadoconnect__MappingsSavedSuccessfully</name>
+        <label><!-- OperatorLessOrEqual --></label>
+        <name>smartlists__OperatorLessOrEqual</name>
     </customLabels>
     <customLabels>
-        <label><!-- NAMED CREDENTIAL ERROR --></label>
-        <name>copadoconnect__NAMED_CREDENTIAL_ERROR</name>
+        <label><!-- OperatorLessThan --></label>
+        <name>smartlists__OperatorLessThan</name>
     </customLabels>
     <customLabels>
-        <label><!-- NamedCredentialQueryError --></label>
-        <name>copadoconnect__NamedCredentialQueryError</name>
+        <label><!-- OperatorNotEqualTo --></label>
+        <name>smartlists__OperatorNotEqualTo</name>
     </customLabels>
     <customLabels>
-        <label><!-- Named Credential --></label>
-        <name>copadoconnect__Named_Credential</name>
+        <label><!-- OperatorNotIn --></label>
+        <name>smartlists__OperatorNotIn</name>
     </customLabels>
     <customLabels>
-        <label><!-- NoIntegrationPermissionErrorAlert --></label>
-        <name>copadoconnect__NoIntegrationPermissionErrorAlert</name>
+        <label><!-- OperatorStartsWith --></label>
+        <name>smartlists__OperatorStartsWith</name>
     </customLabels>
     <customLabels>
-        <label><!-- NoIntegrationPermissionErrorMessage --></label>
-        <name>copadoconnect__NoIntegrationPermissionErrorMessage</name>
+        <label><!-- OptionsSelected --></label>
+        <name>smartlists__OptionsSelected</name>
     </customLabels>
     <customLabels>
-        <label><!-- NoNamedCredentialAvailableError --></label>
-        <name>copadoconnect__NoNamedCredentialAvailableError</name>
+        <label><!-- Owner --></label>
+        <name>smartlists__Owner</name>
     </customLabels>
     <customLabels>
-        <label><!-- No Board Error --></label>
-        <name>copadoconnect__No_Board_Error</name>
+        <label><!-- Preview File --></label>
+        <name>smartlists__PreviewFile</name>
     </customLabels>
     <customLabels>
-        <label><!-- PROJECT PERMISSION ERROR --></label>
-        <name>copadoconnect__PROJECT_PERMISSION_ERROR</name>
+        <label><!-- Preview Selected Files --></label>
+        <name>smartlists__PreviewSelectedFiles</name>
     </customLabels>
     <customLabels>
-        <label><!-- PROJECT PLACEHOLDER --></label>
-        <name>copadoconnect__PROJECT_PLACEHOLDER</name>
+        <label><!-- Quick Filters --></label>
+        <name>smartlists__QuickFilters</name>
     </customLabels>
     <customLabels>
-        <label><!-- ProjectName --></label>
-        <name>copadoconnect__ProjectName</name>
+        <label><!-- Refresh --></label>
+        <name>smartlists__Refresh</name>
     </customLabels>
     <customLabels>
-        <label><!-- ProjectNotValid --></label>
-        <name>copadoconnect__ProjectNotValid</name>
+        <label><!-- Remove --></label>
+        <name>smartlists__Remove</name>
     </customLabels>
     <customLabels>
-        <label><!-- Provider --></label>
-        <name>copadoconnect__Provider</name>
+        <label><!-- Required Information --></label>
+        <name>smartlists__RequiredInformation</name>
     </customLabels>
     <customLabels>
-        <label><!-- REQUIRED_FIELD_ERROR --></label>
-        <name>copadoconnect__REQUIRED_FIELD_ERROR</name>
+        <label><!-- ReviewFieldsErrors --></label>
+        <name>smartlists__ReviewFieldsErrors</name>
     </customLabels>
     <customLabels>
-        <label><!-- Remove selected option --></label>
-        <name>copadoconnect__Remove_Selected_Option</name>
+        <label><!-- ReviewPageErrors --></label>
+        <name>smartlists__ReviewPageErrors</name>
     </customLabels>
     <customLabels>
-        <label><!-- Required --></label>
-        <name>copadoconnect__Required</name>
+        <label><!-- Ownership Visibility Filter All --></label>
+        <name>smartlists__SOQLScopeAll</name>
     </customLabels>
     <customLabels>
-        <label><!-- SAME JQL ERROR --></label>
-        <name>copadoconnect__SAME_JQL_ERROR</name>
+        <label><!-- Ownership Visibility Filter My --></label>
+        <name>smartlists__SOQLScopeMy</name>
     </customLabels>
     <customLabels>
-        <label><!-- SELECT DIFFERENT APPENDIX --></label>
-        <name>copadoconnect__SELECT_DIFFERENT_APPENDIX</name>
+        <label><!-- Ownership Visibility Filter My Queues --></label>
+        <name>smartlists__SOQLScopeMyQueues</name>
     </customLabels>
     <customLabels>
-        <label><!-- SELECT DIFFERENT PROJECT --></label>
-        <name>copadoconnect__SELECT_DIFFERENT_PROJECT</name>
+        <label><!-- Ownership Visibility - My Subordinates --></label>
+        <name>smartlists__SOQLScopeMySubordinates</name>
     </customLabels>
     <customLabels>
-        <label><!-- SELECT PROJECT --></label>
-        <name>copadoconnect__SELECT_PROJECT</name>
+        <label><!-- Ownership Visibility Filter My Team --></label>
+        <name>smartlists__SOQLScopeMyTeam</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SOSLSearchNonSearchableFields --></label>
+        <name>smartlists__SOSLSearchNonSearchableFields</name>
     </customLabels>
     <customLabels>
         <label><!-- Save --></label>
-        <name>copadoconnect__Save</name>
+        <name>smartlists__Save</name>
     </customLabels>
     <customLabels>
-        <label><!-- SearchCopadoFieldPlaceholder --></label>
-        <name>copadoconnect__SearchCopadoFieldPlaceholder</name>
+        <label><!-- SavedChanges --></label>
+        <name>smartlists__SavedChanges</name>
     </customLabels>
     <customLabels>
-        <label><!-- SearchCopadoProject --></label>
-        <name>copadoconnect__SearchCopadoProject</name>
+        <label><!-- Saving --></label>
+        <name>smartlists__Saving</name>
     </customLabels>
     <customLabels>
-        <label><!-- SearchExternalFieldPlaceholder --></label>
-        <name>copadoconnect__SearchExternalFieldPlaceholder</name>
+        <label><!-- Search --></label>
+        <name>smartlists__Search</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectCopadoFieldLabel --></label>
-        <name>copadoconnect__SelectCopadoFieldLabel</name>
+        <label><!-- SearchBoxLabel --></label>
+        <name>smartlists__SearchBoxLabel</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectCopadoFieldValueLabel --></label>
-        <name>copadoconnect__SelectCopadoFieldValueLabel</name>
+        <label><!-- SearchBoxPlaceholder --></label>
+        <name>smartlists__SearchBoxPlaceholder</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectCopadoObjectLabel --></label>
-        <name>copadoconnect__SelectCopadoObjectLabel</name>
+        <label><!-- Select an Option --></label>
+        <name>smartlists__SelectAnOption</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectCopadoObjectPlaceholder --></label>
-        <name>copadoconnect__SelectCopadoObjectPlaceholder</name>
+        <label><!-- SelectOperator --></label>
+        <name>smartlists__SelectOperator</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectCopadoRecordTypeLabel --></label>
-        <name>copadoconnect__SelectCopadoRecordTypeLabel</name>
+        <label><!-- Selected Options --></label>
+        <name>smartlists__SelectedOptions</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectCopadoRecordTypePlaceholder --></label>
-        <name>copadoconnect__SelectCopadoRecordTypePlaceholder</name>
+        <label><!-- Selected --></label>
+        <name>smartlists__SelectedPlural</name>
     </customLabels>
     <customLabels>
-        <label><!-- Select Data Source --></label>
-        <name>copadoconnect__SelectDataSource</name>
+        <label><!-- Selected --></label>
+        <name>smartlists__SelectedSingular</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectEditFieldsLabel --></label>
-        <name>copadoconnect__SelectEditFieldsLabel</name>
+        <label><!-- Selections --></label>
+        <name>smartlists__Selections</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectExternalFieldsLabel --></label>
-        <name>copadoconnect__SelectExternalFieldsLabel</name>
+        <label><!-- ShowActions --></label>
+        <name>smartlists__ShowActions</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectFieldValuesLabel --></label>
-        <name>copadoconnect__SelectFieldValuesLabel</name>
+        <label><!-- ShowMore --></label>
+        <name>smartlists__ShowMore</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectFieldsHeading --></label>
-        <name>copadoconnect__SelectFieldsHeading</name>
+        <label><!-- Show Quick Filters --></label>
+        <name>smartlists__ShowQuickFilters</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectFieldsLabel --></label>
-        <name>copadoconnect__SelectFieldsLabel</name>
+        <label><!-- SortAscending --></label>
+        <name>smartlists__SortAscending</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectObjectsHeading --></label>
-        <name>copadoconnect__SelectObjectsHeading</name>
+        <label><!-- SortDescending --></label>
+        <name>smartlists__SortDescending</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectObjectsLabel --></label>
-        <name>copadoconnect__SelectObjectsLabel</name>
+        <label><!-- SortFieldSelection --></label>
+        <name>smartlists__SortFieldSelection</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectSyncDirectionHeading --></label>
-        <name>copadoconnect__SelectSyncDirectionHeading</name>
+        <label><!-- Sorted by --></label>
+        <name>smartlists__SortedBy</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectSyncDirectionLabel --></label>
-        <name>copadoconnect__SelectSyncDirectionLabel</name>
+        <label><!-- Unchecked --></label>
+        <name>smartlists__Unchecked</name>
     </customLabels>
     <customLabels>
-        <label><!-- SelectSyncStart --></label>
-        <name>copadoconnect__SelectSyncStart</name>
+        <label><!-- Upload --></label>
+        <name>smartlists__Upload</name>
     </customLabels>
     <customLabels>
-        <label><!-- Selected Source Info --></label>
-        <name>copadoconnect__SelectedSourceInfo</name>
+        <label><!-- Upload Files --></label>
+        <name>smartlists__UploadFiles</name>
     </customLabels>
     <customLabels>
-        <label><!-- ServiceNowUserStoryObjectMappingError --></label>
-        <name>copadoconnect__ServiceNowUserStoryObjectMappingError</name>
+        <label><!-- Upload New Version --></label>
+        <name>smartlists__UploadNewVersion</name>
     </customLabels>
     <customLabels>
-        <label><!-- StartSyncFromLastSyncDateLabelTemplate --></label>
-        <name>copadoconnect__StartSyncFromLastSyncDateLabelTemplate</name>
+        <label><!-- Upload New Version Reason --></label>
+        <name>smartlists__UploadNewVersionReason</name>
     </customLabels>
     <customLabels>
-        <label><!-- StartSyncFromNowLabel --></label>
-        <name>copadoconnect__StartSyncFromNowLabel</name>
+        <label><!-- View File Details --></label>
+        <name>smartlists__ViewFileDetails</name>
     </customLabels>
     <customLabels>
-        <label><!-- SubTaskValidationError --></label>
-        <name>copadoconnect__SubTaskValidationError</name>
+        <label><!-- VisibilityFilterSelection --></label>
+        <name>smartlists__VisibilityFilterSelection</name>
     </customLabels>
     <customLabels>
-        <label><!-- Success --></label>
-        <name>copadoconnect__Success</name>
+        <label><!-- was created. --></label>
+        <name>smartlists__WasCreated</name>
     </customLabels>
     <customLabels>
-        <label><!-- SyncAllOptionLabel --></label>
-        <name>copadoconnect__SyncAllOptionLabel</name>
+        <label><!-- was deleted. --></label>
+        <name>smartlists__WasDeleted</name>
     </customLabels>
     <customLabels>
-        <label><!-- SyncSpecificOptionLabel --></label>
-        <name>copadoconnect__SyncSpecificOptionLabel</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- TypeExternalFieldValueLabel --></label>
-        <name>copadoconnect__TypeExternalFieldValueLabel</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- UNSUPPORTED COPADO EVENT --></label>
-        <name>copadoconnect__UNSUPPORTED_COPADO_EVENT</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- UNSUPPORTED PROVIDER EVENT --></label>
-        <name>copadoconnect__UNSUPPORTED_PROVIDER_EVENT</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SELECT DIFFERENT PROJECT --></label>
-        <name>copadoconnect__UPDATE_APPENDIX</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Unique Copado Integration Validation Error --></label>
-        <name>copadoconnect__Unique_Copado_Integration_Validation_Error</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Warning --></label>
-        <name>copadoconnect__Warning</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_field_not_insertable --></label>
-        <name>copadoconnect__fflib_security_error_field_not_insertable</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_field_not_readable --></label>
-        <name>copadoconnect__fflib_security_error_field_not_readable</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_field_not_updateable --></label>
-        <name>copadoconnect__fflib_security_error_field_not_updateable</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_object_not_deletable --></label>
-        <name>copadoconnect__fflib_security_error_object_not_deletable</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_object_not_insertable --></label>
-        <name>copadoconnect__fflib_security_error_object_not_insertable</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_object_not_readable --></label>
-        <name>copadoconnect__fflib_security_error_object_not_readable</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fflib_security_error_object_not_updateable --></label>
-        <name>copadoconnect__fflib_security_error_object_not_updateable</name>
+        <label><!-- was saved. --></label>
+        <name>smartlists__WasSaved</name>
     </customLabels>
     <customTabs>
         <label><!-- Welcome --></label>
