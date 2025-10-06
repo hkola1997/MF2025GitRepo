@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>smartlists__Smart_List_Field__mdt.smartlists__Dynamic_Style_Field__c</members>
-        <members>smartlists__Smart_List_Field__mdt.smartlists__Editable_in_List__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>smartlists</members>
-        <name>InstalledPackage</name>
+        <members>AppSupportEmail</members>
+        <name>CustomLabel</name>
     </types>
     <version>64.0</version>
 </Package>
