@@ -84,4 +84,11 @@
         <shortDescription>Welcome Hero Title</shortDescription>
         <value>Welcome to Agentforce</value>
     </labels>
+    <labels>
+        <fullName>AppSupportEmail</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AppSupportEmail</shortDescription>
+        <value>support@example.com</value>
+    </labels>
 </CustomLabels>
