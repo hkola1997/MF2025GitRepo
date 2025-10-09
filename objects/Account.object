@@ -568,6 +568,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>amitscustomfield__c</fullName>
+        <externalId>false</externalId>
+        <label>amitscustomfield</label>
+        <length>55</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>customsettingschandana__c</fullName>
         <externalId>false</externalId>
         <label>customsettingschandana</label>
