@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.amitscustomfield__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>amitsprofileeecustom</members>
+        <members>jorge amit new profile</members>
         <name>Profile</name>
     </types>
-    <version>64.0</version>
+    <version>65.0</version>
 </Package>
