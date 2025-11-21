@@ -598,6 +598,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>maxim1__c</fullName>
+        <externalId>false</externalId>
+        <label>maxim1</label>
+        <length>66</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>nithish__c</fullName>
         <externalId>false</externalId>
         <label>nithish</label>
