@@ -578,6 +578,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>customfield_is_empty__c</fullName>
+        <description>Hello</description>
+        <externalId>false</externalId>
+        <label>customfield is empty</label>
+        <length>99</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>customsettingschandana__c</fullName>
         <externalId>false</externalId>
         <label>customsettingschandana</label>
